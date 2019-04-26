@@ -1,8 +1,15 @@
 
-Date         | URL
--------------|------------------------------------------------------------
-05-Mar-2019  | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6057994/
-19-Mar-2019  | https://www.nature.com/articles/s41588-019-0350-x
-02-Apr-2019  | https://www.nature.com/articles/s41588-018-0132-x
-16-Apr-2019  | http://emboj.embopress.org/content/early/2018/08/06/embj.201694813
-30-Apr-2019  | https://www.nature.com/articles/s41588-018-0321-7
+Date       | Presenter | URL
+-----------|-----------|-------------------------------------------------------------------------------
+05/03/2019 | Kate      | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6057994/
+           |           | https://onlinelibrary.wiley.com/doi/10.1002/gepi.22188 (additional suggestion)
+19/03/2019 | Bram      | https://www.nature.com/articles/s41588-019-0350-x
+02/04/2019 | Lingyan   | https://www.nature.com/articles/s41588-018-0132-x
+16/04/2019 | David     | http://emboj.embopress.org/content/early/2018/08/06/embj.201694813
+30/04/2019 | Jing Hua  | https://www.nature.com/articles/s41588-018-0321-7
+14/05/2019 | Emily
+28/05/2019 | Jo
+11/06/2019 | Luanluan
+25/06/2019 | Dirk
+09/07/2019 | Elias
+23/07/2019 | Jimmy
