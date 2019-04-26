@@ -2,7 +2,7 @@
 Date       | Presenter | URL
 -----------|-----------|-------------------------------------------------------------------------------
 05/03/2019 | Kate      | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6057994/
-"          |  -        | https://onlinelibrary.wiley.com/doi/10.1002/gepi.22188 (additional suggestion)
+-          |  -        | https://onlinelibrary.wiley.com/doi/10.1002/gepi.22188 (suggested reading)
 19/03/2019 | Bram      | https://www.nature.com/articles/s41588-019-0350-x
 02/04/2019 | Lingyan   | https://www.nature.com/articles/s41588-018-0132-x
 16/04/2019 | David     | http://emboj.embopress.org/content/early/2018/08/06/embj.201694813
