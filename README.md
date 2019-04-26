@@ -1,2 +1,2 @@
 # journal-club
-Papers which have read on the journal club
+Information on the journal club
