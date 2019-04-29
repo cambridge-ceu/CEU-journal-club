@@ -12,4 +12,4 @@ Date       | Presenter | URL
 11/06/2019 | Luanluan
 25/06/2019 | Dirk
 09/07/2019 | Elias
-23/07/2019 | Jimmy
+23/07/2019 | Savita
