@@ -1,8 +1,8 @@
 # journal-club
 
-<img src="http://phdcomics.com/comics/archive/phd011108s.gif" width="560" height="250" align="right">
+This repository contains information on the journal club at the Cardiovascular Epidemiology Unit (CEU), including a [list of papers](list-of-papers.md).
 
-This repository contains information on the journal club at Cardiovascular Epidemiology Unit (CEU), including a [list of papers](list-of-papers.md).
+<img src="http://phdcomics.com/comics/archive/phd011108s.gif" width="560" height="250" align="right">
 
 * **Format**. Each session has a leading discussant.
 * **Mailing list**. Kate also maintains the list for anyone to join in.
