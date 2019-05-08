@@ -7,6 +7,7 @@ This repository contains information on the journal club at Cardiovascular Epide
 * **Format**. Each session has a leading discussant.
 * **Mailing list**. Kate also maintains the list for anyone to join in.
 * **Veunue**. The Pod.
+* **Web**. https://cambridge-ceu.github.io/journal-club/
 
 Please contact us if you like to contribute one.
 
