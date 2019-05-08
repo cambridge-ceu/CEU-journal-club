@@ -9,6 +9,6 @@ This repository contains information on the journal club at Cardiovascular Epide
 * **Veunue**. The Pod.
 * **Web**. https://cambridge-ceu.github.io/journal-club/
 
-Please contact us if you like to contribute one.
+Please contact us if you like to lead one.
 
 Keep reading!!!
