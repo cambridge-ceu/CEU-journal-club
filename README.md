@@ -6,7 +6,7 @@ This repository contains information on the journal club at the Cardiovascular E
 
 * **Format**. Each session has a leading discussant with contribution from others.
 * **Venue**. The Pod.
-* **List of papers**. [here](list-of-papers.md) is list for past and coming titles.
+* **Papers**. Here is the [list of papers](list-of-papers.md) is list for past and coming titles.
 * **Mailing list**. Kate also maintains the list for anyone to join in.
 * **Web**. https://cambridge-ceu.github.io/journal-club/
 
