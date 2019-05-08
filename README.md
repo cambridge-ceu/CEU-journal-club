@@ -10,6 +10,6 @@ This repository contains information on the journal club at the Cardiovascular E
 * **Mailing list**. phpc-ceu-genjc-bounces@lists.cam.ac.uk is maintained by Kate.
 * **Web**. https://cambridge-ceu.github.io/journal-club/
 
-Please <a href="mailto:phpc-ceu-genjc-bounces@lists.cam.ac.uk">send a message</a>) to join in.
+Please <a href="mailto:phpc-ceu-genjc-bounces@lists.cam.ac.uk">send a message</a> to join in.
 
 Keep reading!!!
