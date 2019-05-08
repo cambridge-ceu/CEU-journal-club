@@ -1,6 +1,6 @@
 # journal-club
 
-<img src="http://phdcomics.com/comics/archive/phd011108s.gif" width="600" height="300" align="right">
+<img src="http://phdcomics.com/comics/archive/phd011108s.gif" width="560" height="300" align="right">
 
 This repository contains information on the journal club at Cardiovascular Epidemiology Unit (CEU), including a [list of papers](list-of-papers.md).
 
