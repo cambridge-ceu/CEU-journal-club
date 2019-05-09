@@ -12,4 +12,4 @@ This repository contains information on the journal club at the Cardiovascular E
 
 Please <a href="mailto:phpc-ceu-genjc-bounces@lists.cam.ac.uk">send a message to the mailing list</a> to join in.
 
-Keep reading!!!
+Keep rrreeeeeeaaaaaaaaading!!!
