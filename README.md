@@ -1,8 +1,8 @@
+<img src="http://phdcomics.com/comics/archive/phd011108s.gif" width="560" height="250" align="right">
+
 # journal-club
 
 This repository contains information on the journal club at the Cardiovascular Epidemiology Unit (CEU).
-
-<img src="http://phdcomics.com/comics/archive/phd011108s.gif" width="560" height="250" align="right">
 
 * **Format**. Each session has a leading discussant with contribution from others.
 * **Venue**. The Pod.
