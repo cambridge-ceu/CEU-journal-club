@@ -1,0 +1,47 @@
+==> IF_2018_Biology.csv <==
+"Journal Data Filtered By:  Selected JCR Year: 2018 Selected Editions: SCIE,SSCI Selected Categories: 'BIOCHEMISTRY & MOLECULAR BIOLOGY','BIOLOGY','CELL BIOLOGY' Selected Category Scheme: WoS",,,,
+
+==> IF_2018_Biology_Genetics_Science.csv <==
+"Journal Data Filtered By:  Selected JCR Year: 2018 Selected Editions: SCIE,SSCI Selected Categories: 'BIOCHEMISTRY & MOLECULAR BIOLOGY','BIOLOGY','CELL BIOLOGY','GENETICS & HEREDITY','MATHEMATICAL & COMPUTATIONAL BIOLOGY','MULTIDISCIPLINARY SCIENCES' Selected Category Scheme: WoS",,,,
+
+==> IF_2018_CVD.csv <==
+"Journal Data Filtered By:  Selected JCR Year: 2018 Selected Editions: SCIE,SSCI Selected Categories: 'CARDIAC & CARDIOVASCULAR SYSTEMS','PERIPHERAL VASCULAR DISEASE' Selected Category Scheme: WoS",,,,
+
+==> IF_2018_Endocrinology.csv <==
+"Journal Data Filtered By:  Selected JCR Year: 2018 Selected Editions: SCIE,SSCI Selected Categories: 'ENDOCRINOLOGY & METABOLISM' Selected Category Scheme: WoS",,,,
+
+==> IF_2018_General_Science.csv <==
+"Journal Data Filtered By:  Selected JCR Year: 2018 Selected Editions: SCIE,SSCI Selected Categories: 'MULTIDISCIPLINARY SCIENCES' Selected Category Scheme: WoS",,,,
+
+==> IF_2018_Genetics.csv <==
+"Journal Data Filtered By:  Selected JCR Year: 2018 Selected Editions: SCIE,SSCI Selected Categories: 'GENETICS & HEREDITY' Selected Category Scheme: WoS",,,,
+
+==> IF_2018_Gerontology.csv <==
+"Journal Data Filtered By:  Selected JCR Year: 2018 Selected Editions: SCIE,SSCI Selected Categories: 'GERIATRICS & GERONTOLOGY','GERONTOLOGY' Selected Category Scheme: WoS",,,,
+
+==> IF_2018_Haematology.csv <==
+"Journal Data Filtered By:  Selected JCR Year: 2018 Selected Editions: SCIE,SSCI Selected Categories: 'HEMATOLOGY' Selected Category Scheme: WoS",,,,
+
+==> IF_2018_Immunology.csv <==
+"Journal Data Filtered By:  Selected JCR Year: 2018 Selected Editions: SCIE,SSCI Selected Categories: 'IMMUNOLOGY' Selected Category Scheme: WoS",,,,
+
+==> IF_2018_Informatics.csv <==
+"Journal Data Filtered By:  Selected JCR Year: 2018 Selected Editions: SCIE,SSCI Selected Categories: 'MEDICAL INFORMATICS' Selected Category Scheme: WoS",,,,
+
+==> IF_2018_Medicine.csv <==
+"Journal Data Filtered By:  Selected JCR Year: 2018 Selected Editions: SCIE,SSCI Selected Categories: 'MEDICINE, GENERAL & INTERNAL','MEDICINE, RESEARCH & EXPERIMENTAL' Selected Category Scheme: WoS",,,,
+
+==> IF_2018_Medicine_CVD.csv <==
+"Journal Data Filtered By:  Selected JCR Year: 2018 Selected Editions: SCIE,SSCI Selected Categories: 'CARDIAC & CARDIOVASCULAR SYSTEMS','MEDICINE, GENERAL & INTERNAL','MEDICINE, RESEARCH & EXPERIMENTAL','PERIPHERAL VASCULAR DISEASE' Selected Category Scheme: WoS",,,,
+
+==> IF_2018_Neurology.csv <==
+"Journal Data Filtered By:  Selected JCR Year: 2018 Selected Editions: SCIE,SSCI Selected Categories: 'CLINICAL NEUROLOGY' Selected Category Scheme: WoS",,,,
+
+==> IF_2018_Public_Health.csv <==
+"Journal Data Filtered By:  Selected JCR Year: 2018 Selected Editions: SCIE,SSCI Selected Categories: 'PUBLIC, ENVIRONMENTAL & OCCUPATIONAL HEALTH' Selected Category Scheme: WoS",,,,
+
+==> IF_2018_Statistics.csv <==
+"Journal Data Filtered By:  Selected JCR Year: 2018 Selected Editions: SCIE,SSCI Selected Categories: 'STATISTICS & PROBABILITY' Selected Category Scheme: WoS",,,,
+
+==> Statement Download 2018-Oct-30 21-56-56.csv <==
+"Account Name:","Flexclusive ISA Issue 15 ****01790"
