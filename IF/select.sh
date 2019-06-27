@@ -1,6 +1,6 @@
 # 27-6-2017 JHZ
 
-# working on .csv attachment by Stephen Bell
+# working on .csv attachment by Steven Bell
 
 chmod -x csv/*
 head -1 csv/*csv > select.txt
