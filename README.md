@@ -34,4 +34,4 @@ Keep rrreeeeeeaaaaaaaaading!!!
 
 ----
 
-Monthly publiccations are to be highlighted.
+Monthly publiccations to be highlighted.
