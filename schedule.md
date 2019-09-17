@@ -14,15 +14,15 @@ Date       | Presenter | URL
 23/07/2019 | Savita    | [https://www.nature.com/articles/s41588-019-0409-8](https://www.nature.com/articles/s41588-019-0409-8)
 **2019--2020**|
 10/09/2019 | Bram | [https://www.nature.com/articles/s41588-019-0481-0](https://www.nature.com/articles/s41588-019-0481-0)
-24/09/2019 | Dirk
+24/09/2019 | Dirk | [https://www.nature.com/articles/s41588-019-0385-z](https://www.nature.com/articles/s41588-019-0385-z)
 08/10/2019 | Lingyan
 22/10/2019 | David
 05/11/2019 | Kate 
-19/11/2019 | Jing Hua
-03/12/2019 | Elias 
+19/11/2019 | Jing Hua*
+10/12/2019 | Elias
 17/12/2019 | Luanluan 
 14/01/2020 | Jonathan
 28/01/2020 | Scott 
 11/02/2020 | Savita 
 
-
+* POD instead of the Old Library.
