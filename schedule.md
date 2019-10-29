@@ -16,8 +16,7 @@ Date       | Presenter | URL
 10/09/2019 | Bram | [https://www.nature.com/articles/s41588-019-0481-0](https://www.nature.com/articles/s41588-019-0481-0)
 24/09/2019 | Dirk | [https://www.nature.com/articles/s41588-019-0385-z](https://www.nature.com/articles/s41588-019-0385-z)
 08/10/2019 | Lingyan | [https://www.nature.com/articles/s41588-019-0456-1](https://www.nature.com/articles/s41588-019-0456-1)
-22/10/2019 | David
-05/11/2019 | Kate 
+05/11/2019 | David | [https://www.nature.com/articles/s41467-019-08666-4](https://www.nature.com/articles/s41467-019-08666-4)
 19/11/2019 | Jing Hua*
 10/12/2019 | Elias
 17/12/2019 | Luanluan 
