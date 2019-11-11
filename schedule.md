@@ -17,7 +17,7 @@ Date       | Presenter | URL
 24/09/2019 | Dirk | [https://www.nature.com/articles/s41588-019-0385-z](https://www.nature.com/articles/s41588-019-0385-z)
 08/10/2019 | Lingyan | [https://www.nature.com/articles/s41588-019-0456-1](https://www.nature.com/articles/s41588-019-0456-1)
 05/11/2019 | David | [https://www.nature.com/articles/s41467-019-08666-4](https://www.nature.com/articles/s41467-019-08666-4)
-19/11/2019 | Jing Hua*
+19/11/2019 | Jing Hua* | [https://www.sciencedirect.com/science/article/pii/S0092867419302776?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S0092867419302776?via%3Dihub)
 10/12/2019 | Elias
 17/12/2019 | Luanluan 
 14/01/2020 | Jonathan
