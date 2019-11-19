@@ -4,7 +4,7 @@ This repository contains information on the journal club at the Cardiovascular E
 
 * **Format**. Each session has a leading discussant with contribution from others.
 * **Venue**. The Pod.
-* **Schedule**. Past and coming sessions are in [this list](schedule.md).
+* **Schedule**. Past and coming sessions are in [this list](schedule.md) ([papers](papers)).
 * **Web**. [https://cambridge-ceu.github.io/CEU-journal-club/](https://cambridge-ceu.github.io/CEU-journal-club/).
 * **2018 impact factors**. See [here](https://github.com/cambridge-ceu/CEU-journal-club#2018-journal-impact-factors).
 
