@@ -34,4 +34,4 @@ Keep rrreeeeeeaaaaaaaaading!!!
 
 ----
 
-Todo -- Highlight on publications.
+*Todo* -- Highlight on publications.
