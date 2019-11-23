@@ -1,4 +1,4 @@
-<img src="http://phdcomics.com/comics/archive/phd011108s.gif" width="560" height="250" align="right">
+<a href="https://phdcomics.com/comics/archive_print.php?comicid=963"><img src="http://phdcomics.com/comics/archive/phd011108s.gif" width="560" height="250" align="right"></a>
 
 This repository contains information on the journal club at the Cardiovascular Epidemiology Unit (CEU).
 
