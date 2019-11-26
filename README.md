@@ -7,7 +7,7 @@ This repository contains information on the journal club at the Cardiovascular E
 * **Schedule**. Past and coming sessions are in [this list](schedule.md).
 * **Email**. Information on each session and remainder are posted by Kate via the <a href="mailto:phpc-ceu-genjc-bounces@lists.cam.ac.uk"> mailing list</a>.
 * **Web**. [https://cambridge-ceu.github.io/CEU-journal-club/](https://cambridge-ceu.github.io/CEU-journal-club/).
-* **2018 impact factors**. See [here](https://github.com/cambridge-ceu/CEU-journal-club#2018-journal-impact-factors).
+* **Impact** See [2018 impact factors](https://github.com/cambridge-ceu/CEU-journal-club#2018-journal-impact-factors).
 
 Keep rrreeeeeeaaaaaaaaading!!!
 
