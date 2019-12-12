@@ -19,7 +19,6 @@ Date       | Presenter | URL
 05/11/2019 | David | [https://www.nature.com/articles/s41467-019-08666-4](https://www.nature.com/articles/s41467-019-08666-4)
 19/11/2019 | Jing Hua* | [https://www.sciencedirect.com/science/article/pii/S0092867419302776?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S0092867419302776?via%3Dihub)
 10/12/2019 | Elias | [https://www.nature.com/articles/s41588-019-0511-y](https://www.nature.com/articles/s41588-019-0511-y)
-17/12/2019 | Luanluan 
 14/01/2020 | Jonathan
 28/01/2020 | Scott 
 11/02/2020 | Savita 
