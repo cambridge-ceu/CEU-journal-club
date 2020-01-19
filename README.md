@@ -13,7 +13,7 @@ Keep rrreeeeeeaaaaaaaaading!!!
 
 ---
 
-### 2018 journal impact factors
+### 2018 journal<sub>+</sup> impact factors
 
 * [Biology_Genetics_Science](IF/IF_2018_Biology_Genetics_Science.tsv)
 * [Biology](IF/IF_2018_Biology.tsv)
@@ -32,5 +32,7 @@ Keep rrreeeeeeaaaaaaaaading!!!
 * [Statistics](IF/IF_2018_Statistics.tsv)
 
 ----
+
+<sup>+</sup> [NLM Catalog: Journals referenced in the NCBI Databases](https://www.ncbi.nlm.nih.gov/nlmcatalog/journals)
 
 *Todo* -- Highlight on publications.
