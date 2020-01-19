@@ -13,7 +13,7 @@ Keep rrreeeeeeaaaaaaaaading!!!
 
 ---
 
-### 2018 journal<sub>+</sup> impact factors
+### 2018 journal<sup>+</sup> impact factors
 
 * [Biology_Genetics_Science](IF/IF_2018_Biology_Genetics_Science.tsv)
 * [Biology](IF/IF_2018_Biology.tsv)
