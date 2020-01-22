@@ -20,7 +20,7 @@ Date       | Presenter | URL
 19/11/2019 | Jing Hua* | [https://www.sciencedirect.com/science/article/pii/S0092867419302776?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S0092867419302776?via%3Dihub)
 10/12/2019 | Elias | [https://www.nature.com/articles/s41588-019-0511-y](https://www.nature.com/articles/s41588-019-0511-y)
 14/01/2020 | Jonathan | [https://advances.sciencemag.org/content/5/8/eaaw3538](https://advances.sciencemag.org/content/5/8/eaaw3538)
-28/01/2020 | Scott 
+28/01/2020 | Scott | [https://www.nature.com/articles/s41467-019-13690-5](https://www.nature.com/articles/s41467-019-13690-5)
 11/02/2020 | Savita 
 
 \* POD instead of the Old Library.
