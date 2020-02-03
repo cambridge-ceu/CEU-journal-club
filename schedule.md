@@ -1,20 +1,20 @@
 
 ## [Google Calendar](fullcalendar-4.3.1/examples//google-calendar.html) ([Calendarview](calendarview-1.2/examples/calendarview.html))
 
-Date       | Presenter | URL | Venue (Old library)
+Date       | Presenter | URL | Venue
 -----------|-----------|-------------------------------------------------------------------------------|------
-**2019--2020**|
+**2019--2020**| | | The Old library
 10/09/2019 | Bram | [https://www.nature.com/articles/s41588-019-0481-0](https://www.nature.com/articles/s41588-019-0481-0)
 24/09/2019 | Dirk | [https://www.nature.com/articles/s41588-019-0385-z](https://www.nature.com/articles/s41588-019-0385-z)
 08/10/2019 | Lingyan | [https://www.nature.com/articles/s41588-019-0456-1](https://www.nature.com/articles/s41588-019-0456-1)
 05/11/2019 | David | [https://www.nature.com/articles/s41467-019-08666-4](https://www.nature.com/articles/s41467-019-08666-4)
-19/11/2019 | Jing Hua | [https://www.sciencedirect.com/science/article/pii/S0092867419302776?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S0092867419302776?via%3Dihub) | POD
+19/11/2019 | Jing Hua | [https://www.sciencedirect.com/science/article/pii/S0092867419302776?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S0092867419302776?via%3Dihub) | The Pod
 10/12/2019 | Elias | [https://www.nature.com/articles/s41588-019-0511-y](https://www.nature.com/articles/s41588-019-0511-y)
 14/01/2020 | Jonathan | [https://advances.sciencemag.org/content/5/8/eaaw3538](https://advances.sciencemag.org/content/5/8/eaaw3538)
 28/01/2020 | Scott | [https://www.nature.com/articles/s41467-019-13690-5](https://www.nature.com/articles/s41467-019-13690-5)
 11/02/2020 | Savita 
 25/02/2020 | Bram 
-**2018--2019**|
+**2018--2019**| | | The Pod
 05/03/2019 | Kate      | [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6057994/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6057994/)
 ~ ~ ~      | ~ ~ ~     | [https://onlinelibrary.wiley.com/doi/10.1002/gepi.22188](https://onlinelibrary.wiley.com/doi/10.1002/gepi.22188) (suggested reading)
 19/03/2019 | Bram      | [https://www.nature.com/articles/s41588-018-0132-x](https://www.nature.com/articles/s41588-018-0132-x)
