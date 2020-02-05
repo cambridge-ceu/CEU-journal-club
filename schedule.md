@@ -8,7 +8,7 @@ Date       | Presenter | URL | Venue
 24/09/2019 | Dirk | [https://www.nature.com/articles/s41588-019-0385-z](https://www.nature.com/articles/s41588-019-0385-z)
 08/10/2019 | Lingyan | [https://www.nature.com/articles/s41588-019-0456-1](https://www.nature.com/articles/s41588-019-0456-1)
 05/11/2019 | David | [https://www.nature.com/articles/s41467-019-08666-4](https://www.nature.com/articles/s41467-019-08666-4)
-19/11/2019 | Jing Hua | [https://www.sciencedirect.com/science/article/pii/S0092867419302776?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S0092867419302776?via%3Dihub) | The Pod
+19/11/2019 | Jing Hua | [https://www.sciencedirect.com/science/article/pii/S0092867419302776?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S0092867419302776?via%3Dihub) | ***The Pod***
 10/12/2019 | Elias | [https://www.nature.com/articles/s41588-019-0511-y](https://www.nature.com/articles/s41588-019-0511-y)
 14/01/2020 | Jonathan | [https://advances.sciencemag.org/content/5/8/eaaw3538](https://advances.sciencemag.org/content/5/8/eaaw3538)
 28/01/2020 | Scott | [https://www.nature.com/articles/s41467-019-13690-5](https://www.nature.com/articles/s41467-019-13690-5)
