@@ -31,10 +31,12 @@ Keep rrreeeeeeaaaaaaaaading!!!
 * [Public Health](IF/IF_2018_Public_Health.tsv)
 * [Statistics](IF/IF_2018_Statistics.tsv)
 
-* <sup>+</sup>[NLM Catalog: Journals referenced in the NCBI Databases](https://www.ncbi.nlm.nih.gov/nlmcatalog/journals) and 
-[Pubmed field descriptions and tags](https://www.ncbi.nlm.nih.gov/books/NBK3827/#pubmedhelp.Search_Field_Descriptions_and).
-* <sup>++</sup>Informaiton on impack factors was compiled from attachment circulated by Steven Bell.
-
 ### RSS
 
 [Discussion papers](https://www.rss.org.uk/RSS/Publications/Journals/Discussion_Papers/RSS/)
+
+---
+
+* <sup>+</sup>[NLM Catalog: Journals referenced in the NCBI Databases](https://www.ncbi.nlm.nih.gov/nlmcatalog/journals) and 
+[Pubmed field descriptions and tags](https://www.ncbi.nlm.nih.gov/books/NBK3827/#pubmedhelp.Search_Field_Descriptions_and).
+* <sup>++</sup>Informaiton on impack factors was compiled from attachment circulated by Steven Bell.
