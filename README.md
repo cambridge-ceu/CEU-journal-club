@@ -15,24 +15,27 @@ Keep rrreeeeeeaaaaaaaaading!!!
 
 ### 2018 journal<sup>+</sup> impact factors
 
-* [Biology_Genetics_Science](IF/IF_2018_Biology_Genetics_Science.tsv)
+* [Biology, Genetics, Science](IF/IF_2018_Biology_Genetics_Science.tsv)
 * [Biology](IF/IF_2018_Biology.tsv)
 * [CVD](IF/IF_2018_CVD.tsv)
 * [Endocrinology](IF/IF_2018_Endocrinology.tsv)
-* [General_Science](IF/IF_2018_General_Science.tsv)
+* [General Science](IF/IF_2018_General_Science.tsv)
 * [Genetics](IF/IF_2018_Genetics.tsv)
 * [Gerontology](IF/IF_2018_Gerontology.tsv)
 * [Haematology](IF/IF_2018_Haematology.tsv)
 * [Immunology](IF/IF_2018_Immunology.tsv)
 * [Informatics](IF/IF_2018_Informatics.tsv)
-* [Medicine_CVD](IF/IF_2018_Medicine_CVD.tsv)
+* [Medicine, CVD](IF/IF_2018_Medicine_CVD.tsv)
 * [Medicine](IF/IF_2018_Medicine.tsv)
 * [Neurology](IF/IF_2018_Neurology.tsv)
-* [Public_Health](IF/IF_2018_Public_Health.tsv)
+* [Public Health](IF/IF_2018_Public_Health.tsv)
 * [Statistics](IF/IF_2018_Statistics.tsv)
 
-<sup>+</sup> [NLM Catalog: Journals referenced in the NCBI Databases](https://www.ncbi.nlm.nih.gov/nlmcatalog/journals) and 
+<sup>+</sup> 
+
+* [NLM Catalog: Journals referenced in the NCBI Databases](https://www.ncbi.nlm.nih.gov/nlmcatalog/journals) and 
 [Pubmed field descriptions and tags](https://www.ncbi.nlm.nih.gov/books/NBK3827/#pubmedhelp.Search_Field_Descriptions_and).
+* Informaiton on impack factors was compiled from attachment circulated by Steven Bell.
 
 ### RSS
 
