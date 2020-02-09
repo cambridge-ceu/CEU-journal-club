@@ -13,7 +13,7 @@ Keep rrreeeeeeaaaaaaaaading!!!
 
 ---
 
-### 2018 journal<sup>+</sup> impact factors
+### 2018 journal<sup>+</sup> impact factors<sup>++</sup>
 
 * [Biology, Genetics, Science](IF/IF_2018_Biology_Genetics_Science.tsv)
 * [Biology](IF/IF_2018_Biology.tsv)
@@ -31,11 +31,9 @@ Keep rrreeeeeeaaaaaaaaading!!!
 * [Public Health](IF/IF_2018_Public_Health.tsv)
 * [Statistics](IF/IF_2018_Statistics.tsv)
 
-<sup>+</sup> 
-
-* [NLM Catalog: Journals referenced in the NCBI Databases](https://www.ncbi.nlm.nih.gov/nlmcatalog/journals) and 
+* <sup>+</sup>[NLM Catalog: Journals referenced in the NCBI Databases](https://www.ncbi.nlm.nih.gov/nlmcatalog/journals) and 
 [Pubmed field descriptions and tags](https://www.ncbi.nlm.nih.gov/books/NBK3827/#pubmedhelp.Search_Field_Descriptions_and).
-* Informaiton on impack factors was compiled from attachment circulated by Steven Bell.
+* <sup>++</sup>Informaiton on impack factors was compiled from attachment circulated by Steven Bell.
 
 ### RSS
 
