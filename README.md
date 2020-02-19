@@ -13,7 +13,7 @@ Keep rrreeeeeeaaaaaaaaading!!!
 
 ### Reference
 
-Lonsdale A, Sietsma Penington J, Rice T, Walker M, Dashnow H (2016). Ten Simple Rules for a Bioinformatics Journal Club. PLoS computational biology, 12(1), e1004526. [https://doi.org/10.1371/journal.pcbi.1004526](https://doi.org/10.1371/journal.pcbi.1004526)
+Lonsdale A, Sietsma Penington J, Rice T, Walker M, Dashnow H (2016). Ten simple rules for a bioinformatics journal club. *PLoS Comput Biol*, 12(1), e1004526. [https://doi.org/10.1371/journal.pcbi.1004526](https://doi.org/10.1371/journal.pcbi.1004526)
 
 ---
 
