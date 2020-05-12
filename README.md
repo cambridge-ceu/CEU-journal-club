@@ -38,6 +38,7 @@ Lonsdale A, Sietsma Penington J, Rice T, Walker M, Dashnow H (2016). Ten simple 
 ### RSS
 
 [Discussion papers](https://www.rss.org.uk/RSS/Publications/Journals/Discussion_Papers/RSS/)
+[Online interactive discussion meeting](https://rss.org.uk/training-events/events/events-2020/online-interactive-discussion-meeting/)
 
 ---
 
