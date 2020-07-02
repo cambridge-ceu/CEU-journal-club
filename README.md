@@ -19,6 +19,17 @@ Lonsdale A, Sietsma Penington J, Rice T, Walker M, Dashnow H (2016). Ten simple 
 
 ### Journal<sup>+</sup> impact factors<sup>++</sup>
 
+**2019**
+
+* [CVD](IF/IF_2019_CVD.tsv)
+* [Genetics](IF/IF_2019_Genetics.tsv)
+* [Haematology](IF/IF_2019_Haematology.tsv)
+* [Medicine](IF/IF_2019_Medicine_CVD.tsv)
+* [Molecular Biology](IF/IF_2019_Molecular_Biology.tsv)
+* [Multidisciplinary Science](IF/IF_2019_Multidiscipinary_Science.tsv)
+* [Public Health](IF/IF_2019_Public_Health.tsv)
+* [Statistics](IF/IF_2019_Statistics.tsv)
+
 **2018**
 
 * [Biology, Genetics, Science](IF/IF_2018_Biology_Genetics_Science.tsv)
@@ -36,17 +47,6 @@ Lonsdale A, Sietsma Penington J, Rice T, Walker M, Dashnow H (2016). Ten simple 
 * [Neurology](IF/IF_2018_Neurology.tsv)
 * [Public Health](IF/IF_2018_Public_Health.tsv)
 * [Statistics](IF/IF_2018_Statistics.tsv)
-
-**2019**
-
-* [CVD](IF/IF_2019_CVD.tsv)
-* [Genetics](IF/IF_2019_Genetics.tsv)
-* [Haematology](IF/IF_2019_Haematology.tsv)
-* [Medicine](IF/IF_2019_Medicine_CVD.tsv)
-* [Molecular Biology](IF/IF_2019_Molecular_Biology.tsv)
-* [Multidisciplinary Science](IF/IF_2019_Multidiscipinary_Science.tsv)
-* [Public Health](IF/IF_2019_Public_Health.tsv)
-* [Statistics](IF/IF_2019_Statistics.tsv)
 
 ### RSS
 
