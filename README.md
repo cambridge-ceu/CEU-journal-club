@@ -33,7 +33,7 @@ Lonsdale A, Sietsma Penington J, Rice T, Walker M, Dashnow H (2016). Ten simple 
 * [Medicine](IF/IF_2018_Medicine.tsv)
 * [Neurology](IF/IF_2018_Neurology.tsv)
 * [Public Health](IF/IF_2018_Public_Health.tsv)
-* [Statistics](IF/IF_2018_Statistics.tsv)
+* [Statistics](IF/IF_2018_Statistics.tsv) ([2019](IF/IF_2019_Statistics.tsv))
 
 ### RSS
 
