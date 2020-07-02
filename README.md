@@ -42,7 +42,7 @@ Lonsdale A, Sietsma Penington J, Rice T, Walker M, Dashnow H (2016). Ten simple 
 * [CVD](IF/IF_2019_CVD.tsv)
 * [Genetics](IF/IF_2019_Genetics.tsv)
 * [Haematology](IF/IF_2019_Haematology.tsv)
-* [Medicine_CVD](IF/IF_2019_Medicine_CVD.tsv)
+* [Medicine](IF/IF_2019_Medicine_CVD.tsv)
 * [Molecular Biology](IF/IF_2019_Molecular_Biology.tsv)
 * [Multidisciplinary Science](IF/IF_2019_Multidiscipinary_Science.tsv)
 * [Public Health](IF/IF_2019_Public_Health.tsv)
