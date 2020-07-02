@@ -17,7 +17,9 @@ Lonsdale A, Sietsma Penington J, Rice T, Walker M, Dashnow H (2016). Ten simple 
 
 ---
 
-### 2018 journal<sup>+</sup> impact factors<sup>++</sup>
+### Journal<sup>+</sup> impact factors<sup>++</sup>
+
+** 2018**
 
 * [Biology, Genetics, Science](IF/IF_2018_Biology_Genetics_Science.tsv)
 * [Biology](IF/IF_2018_Biology.tsv)
@@ -33,7 +35,18 @@ Lonsdale A, Sietsma Penington J, Rice T, Walker M, Dashnow H (2016). Ten simple 
 * [Medicine](IF/IF_2018_Medicine.tsv)
 * [Neurology](IF/IF_2018_Neurology.tsv)
 * [Public Health](IF/IF_2018_Public_Health.tsv)
-* [Statistics](IF/IF_2018_Statistics.tsv) ([2019](IF/IF_2019_Statistics.tsv))
+* [Statistics](IF/IF_2018_Statistics.tsv)
+
+**2019**
+
+[CVD](IF/IF_2019_CVD.tsv)
+[Genetics](IF/IF_2019_Genetics.tsv)
+[Haematology](IF/IF_2019_Haematology.tsv)
+[Medicine_CVD](IF/IF_2019_Medicine_CVD.tsv)
+[Molecular Biology](IF/IF_2019_Molecular_Biology.tsv)
+[Multidisciplinary Science](IF/IF_2019_Multidiscipinary_Science.tsv)
+[Public Health](IF/IF_2019_Public_Health.tsv)
+[Statistics](IF/IF_2019_Statistics.tsv)
 
 ### RSS
 
