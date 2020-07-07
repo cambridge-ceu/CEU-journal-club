@@ -48,7 +48,7 @@ Lonsdale A, Sietsma Penington J, Rice T, Walker M, Dashnow H (2016). Ten simple 
 * [Public Health](IF/IF_2018_Public_Health.tsv)
 * [Statistics](IF/IF_2018_Statistics.tsv)
 
-### RSS
+### The Royal Statistical Society
 
 * [Discussion papers](https://rss.org.uk/news-publication/publications/journals/discussion-papers-meetings/)
 * [Online interactive discussion meeting](https://rss.org.uk/training-events/events/events-2020/online-interactive-discussion-meeting/)
