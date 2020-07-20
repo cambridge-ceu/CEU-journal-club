@@ -50,6 +50,11 @@ Lonsdale A, Sietsma Penington J, Rice T, Walker M, Dashnow H (2016). Ten simple 
  [Public Health](IF/IF_2018_Public_Health.tsv),
  [Statistics](IF/IF_2018_Statistics.tsv).
 
+**2017**
+
+ [Genetics & Heredity](IF_2017_Genetics_&_Heredity.tsv),
+ [Statistics](IF_2017_Statistics.tsv)
+
 ### The Royal Statistical Society
 
 * [Discussion papers](https://rss.org.uk/news-publication/publications/journals/discussion-papers-meetings/)
