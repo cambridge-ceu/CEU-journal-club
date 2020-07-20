@@ -23,32 +23,32 @@ Lonsdale A, Sietsma Penington J, Rice T, Walker M, Dashnow H (2016). Ten simple 
 
 **2019**
 
-* [CVD](IF/IF_2019_CVD.tsv)
-* [Genetics](IF/IF_2019_Genetics.tsv)
-* [Haematology](IF/IF_2019_Haematology.tsv)
-* [Medicine, CVD](IF/IF_2019_Medicine_CVD.tsv)
-* [Molecular Biology](IF/IF_2019_Molecular_Biology.tsv)
-* [Multidisciplinary Science](IF/IF_2019_Multidiscipinary_Science.tsv)
-* [Public Health](IF/IF_2019_Public_Health.tsv)
-* [Statistics](IF/IF_2019_Statistics.tsv)
+ [CVD](IF/IF_2019_CVD.tsv),
+ [Genetics](IF/IF_2019_Genetics.tsv),
+ [Haematology](IF/IF_2019_Haematology.tsv),
+ [Medicine-CVD](IF/IF_2019_Medicine_CVD.tsv),
+ [Molecular Biology](IF/IF_2019_Molecular_Biology.tsv),
+ [Multidisciplinary Science](IF/IF_2019_Multidiscipinary_Science.tsv),
+ [Public Health](IF/IF_2019_Public_Health.tsv),
+ [Statistics](IF/IF_2019_Statistics.tsv).
 
 **2018**
 
-* [Biology, Genetics, Science](IF/IF_2018_Biology_Genetics_Science.tsv)
-* [Biology](IF/IF_2018_Biology.tsv)
-* [CVD](IF/IF_2018_CVD.tsv)
-* [Endocrinology](IF/IF_2018_Endocrinology.tsv)
-* [General Science](IF/IF_2018_General_Science.tsv)
-* [Genetics](IF/IF_2018_Genetics.tsv)
-* [Gerontology](IF/IF_2018_Gerontology.tsv)
-* [Haematology](IF/IF_2018_Haematology.tsv)
-* [Immunology](IF/IF_2018_Immunology.tsv)
-* [Informatics](IF/IF_2018_Informatics.tsv)
-* [Medicine, CVD](IF/IF_2018_Medicine_CVD.tsv)
-* [Medicine](IF/IF_2018_Medicine.tsv)
-* [Neurology](IF/IF_2018_Neurology.tsv)
-* [Public Health](IF/IF_2018_Public_Health.tsv)
-* [Statistics](IF/IF_2018_Statistics.tsv)
+ [Biology](IF/IF_2018_Biology.tsv),
+ [Biology-Genetics-Science](IF/IF_2018_Biology_Genetics_Science.tsv),
+ [CVD](IF/IF_2018_CVD.tsv),
+ [Endocrinology](IF/IF_2018_Endocrinology.tsv),
+ [General Science](IF/IF_2018_General_Science.tsv),
+ [Genetics](IF/IF_2018_Genetics.tsv),
+ [Gerontology](IF/IF_2018_Gerontology.tsv),
+ [Haematology](IF/IF_2018_Haematology.tsv),
+ [Immunology](IF/IF_2018_Immunology.tsv),
+ [Informatics](IF/IF_2018_Informatics.tsv),
+ [Medicine-CVD](IF/IF_2018_Medicine_CVD.tsv),
+ [Medicine](IF/IF_2018_Medicine.tsv),
+ [Neurology](IF/IF_2018_Neurology.tsv),
+ [Public Health](IF/IF_2018_Public_Health.tsv),
+ [Statistics](IF/IF_2018_Statistics.tsv).
 
 ### The Royal Statistical Society
 
