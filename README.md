@@ -19,7 +19,7 @@ Lonsdale A, Sietsma Penington J, Rice T, Walker M, Dashnow H (2016). Ten simple 
 
 ### Journal<sup>+</sup> impact factors<sup>++</sup>
 
-[https://jcr.clarivate.com/](https://jcr.clarivate.com/JCRJournalHomeAction.action?)
+[https://jcr.clarivate.com/](https://jcr.clarivate.com/)
 
 **2019**
 
