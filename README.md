@@ -17,7 +17,9 @@ Lonsdale A, Sietsma Penington J, Rice T, Walker M, Dashnow H (2016). Ten simple 
 
 ---
 
-### Google scholar
+### Google scholar profile
+
+We encourage anyone with research outputs to set up a google scholar profile: it helps others in finding your publications more easily, is associated with higher citation rates, and can boost your profile. It also facilitates data capture on publications, thus helping, for example, in preparing grant applications and REF returns.
 
 Google workspace through the University, [https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login](https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login).
 
