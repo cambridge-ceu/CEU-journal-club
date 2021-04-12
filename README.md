@@ -17,6 +17,10 @@ Lonsdale A, Sietsma Penington J, Rice T, Walker M, Dashnow H (2016). Ten simple 
 
 ---
 
+### Google scholar
+
+[https://scholar.google.co.uk/](https://scholar.google.co.uk/)
+
 ### Journal<sup>+</sup> impact factors<sup>++</sup>
 
 [https://jcr.clarivate.com/](https://jcr.clarivate.com/) (from .csv to .tsv by [JCR-filter.sh](IF/JCR-filter.sh))
