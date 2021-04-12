@@ -21,7 +21,7 @@ Lonsdale A, Sietsma Penington J, Rice T, Walker M, Dashnow H (2016). Ten simple 
 
 We encourage anyone with research outputs to set up a google scholar profile: it helps others in finding your publications more easily, is associated with higher citation rates, and can boost your profile. It also facilitates data capture on publications, thus helping, for example, in preparing grant applications and REF returns.
 
-Google workspace through the University, [https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login](https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login).
+[Google workspace](https://help.uis.cam.ac.uk/service/collaboration/workspace) through the University, [https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login](https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login).
 
 Once logged into your google account, go to [https://scholar.google.co.uk/](https://scholar.google.co.uk/), click “my profile”, complete the form on affiliation, keywords etc, and ensure that your profile is set to “public”.  You will be prompted for an email address: use your university one. Add a photo if you like. Scholar will prompt you with articles it believes are yours; you can select those that do belong to you. You can manually add missing publications. Once set up, Scholar will automatically populate your profile with new publications, but you may need to keep an eye that it has not missed any or that it is not assigning other people’s publications to you.
 
