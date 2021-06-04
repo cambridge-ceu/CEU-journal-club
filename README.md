@@ -13,6 +13,8 @@ Keep rrreeeeeeaaaaaaaaading!!!
 
 ### References
 
+Leaman R, Wei C-H, Allot A, Lu Z (2020) Ten tips for a text-mining-ready article: How to improve automated discoverability and interpretability. *PLoS Biol* 18(6): e3000716. [https://doi.org/10.1371/journal.pbio.3000716](https://doi.org/10.1371/journal.pbio.3000716).
+
 Lonsdale A, Sietsma Penington J, Rice T, Walker M, Dashnow H (2016). Ten simple rules for a bioinformatics journal club. *PLoS Comput Biol*, 12(1), e1004526, [https://doi.org/10.1371/journal.pcbi.1004526](https://doi.org/10.1371/journal.pcbi.1004526)
 
 ---
