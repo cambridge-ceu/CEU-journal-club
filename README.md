@@ -33,10 +33,10 @@ Once logged into your google account, go to [https://scholar.google.co.uk/](http
 
 **2020**
 
- [All](IF_2020_All.tsv),
- [Cardiac & Cardiovascular Systems](IF_2020_Cardiac_&_Cardiovascular_Systems.tsv),
- [Genetics & Heredity](IF_2020_Genetics_&_Heredity.tsv),
- [Statistics & Probability](IF_2020_Statistics_&_Probability.tsv).
+ [All](IF/IF_2020_All.tsv),
+ [Cardiac & Cardiovascular Systems](IF/IF_2020_Cardiac_&_Cardiovascular_Systems.tsv),
+ [Genetics & Heredity](IF/IF_2020_Genetics_&_Heredity.tsv),
+ [Statistics & Probability](IF/IF_2020_Statistics_&_Probability.tsv).
 
 **2019**
 
