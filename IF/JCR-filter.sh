@@ -8,7 +8,6 @@ ls csv | \
 xargs -l basename -s .csv | \
 parallel "
    awk '/Rank|Journal name/,/Copyright/' csv/{}.csv | \
-   awk '!/^$/ && !/Copyright/' | \
    sed -r ':L;s=\b([0-9]+),([0-9]+)\b=\1\2=g;t L' | \
-   tr ',' '\t'> {}.tsv
+   awk -vFS=',' -vOFS='\t' '!/^$/ && !/Copyright/{for (i=1;i<NF;i++) printf \$i OFS;print \$NF}' > {}.tsv
 "
