@@ -29,49 +29,49 @@ Once logged into your google account, go to [https://scholar.google.co.uk/](http
 
 ### Journal<sup>+</sup> impact factors<sup>++</sup>
 
-[https://jcr.clarivate.com/](https://jcr.clarivate.com/) (from .csv to .tsv by [JCR-filter.sh](IF/JCR-filter.sh))
+[https://jcr.clarivate.com/](https://jcr.clarivate.com/) (from .csv to .csv by [JCR-filter.sh](IF/JCR-filter.sh))
 
 **2020**
 
- [All](IF/IF_2020_All.tsv),
- [Cardiac & Cardiovascular Systems](IF/IF_2020_Cardiac_&_Cardiovascular_Systems.tsv),
- [Genetics & Heredity](IF/IF_2020_Genetics_&_Heredity.tsv),
- [Statistics & Probability](IF/IF_2020_Statistics_&_Probability.tsv).
+ [All](IF/IF_2020_All.csv),
+ [Cardiac & Cardiovascular Systems](IF/IF_2020_Cardiac_&_Cardiovascular_Systems.csv),
+ [Genetics & Heredity](IF/IF_2020_Genetics_&_Heredity.csv),
+ [Statistics & Probability](IF/IF_2020_Statistics_&_Probability.csv).
 
 **2019**
 
- [CVD](IF/IF_2019_CVD.tsv),
- [Genetics](IF/IF_2019_Genetics.tsv),
- [Haematology](IF/IF_2019_Haematology.tsv),
- [Medicine-CVD](IF/IF_2019_Medicine_CVD.tsv),
- [Molecular Biology](IF/IF_2019_Molecular_Biology.tsv),
- [Multidisciplinary Science](IF/IF_2019_Multidiscipinary_Science.tsv),
- [Public Health](IF/IF_2019_Public_Health.tsv),
- [Statistics](IF/IF_2019_Statistics.tsv).
+ [CVD](IF/IF_2019_CVD.csv),
+ [Genetics](IF/IF_2019_Genetics.csv),
+ [Haematology](IF/IF_2019_Haematology.csv),
+ [Medicine-CVD](IF/IF_2019_Medicine_CVD.csv),
+ [Molecular Biology](IF/IF_2019_Molecular_Biology.csv),
+ [Multidisciplinary Science](IF/IF_2019_Multidiscipinary_Science.csv),
+ [Public Health](IF/IF_2019_Public_Health.csv),
+ [Statistics](IF/IF_2019_Statistics.csv).
 
 **2018**
 
- [Biology](IF/IF_2018_Biology.tsv),
- [Biology-Genetics-Science](IF/IF_2018_Biology_Genetics_Science.tsv),
- [CVD](IF/IF_2018_CVD.tsv),
- [Endocrinology](IF/IF_2018_Endocrinology.tsv),
- [General Science](IF/IF_2018_General_Science.tsv),
- [Genetics](IF/IF_2018_Genetics.tsv),
- [Gerontology](IF/IF_2018_Gerontology.tsv),
- [Haematology](IF/IF_2018_Haematology.tsv),
- [Immunology](IF/IF_2018_Immunology.tsv),
- [Informatics](IF/IF_2018_Informatics.tsv),
- [Medicine-CVD](IF/IF_2018_Medicine_CVD.tsv),
- [Medicine](IF/IF_2018_Medicine.tsv),
- [Neurology](IF/IF_2018_Neurology.tsv),
- [Public Health](IF/IF_2018_Public_Health.tsv),
- [Statistics](IF/IF_2018_Statistics.tsv).
+ [Biology](IF/IF_2018_Biology.csv),
+ [Biology-Genetics-Science](IF/IF_2018_Biology_Genetics_Science.csv),
+ [CVD](IF/IF_2018_CVD.csv),
+ [Endocrinology](IF/IF_2018_Endocrinology.csv),
+ [General Science](IF/IF_2018_General_Science.csv),
+ [Genetics](IF/IF_2018_Genetics.csv),
+ [Gerontology](IF/IF_2018_Gerontology.csv),
+ [Haematology](IF/IF_2018_Haematology.csv),
+ [Immunology](IF/IF_2018_Immunology.csv),
+ [Informatics](IF/IF_2018_Informatics.csv),
+ [Medicine-CVD](IF/IF_2018_Medicine_CVD.csv),
+ [Medicine](IF/IF_2018_Medicine.csv),
+ [Neurology](IF/IF_2018_Neurology.csv),
+ [Public Health](IF/IF_2018_Public_Health.csv),
+ [Statistics](IF/IF_2018_Statistics.csv).
 
 **2017**
 
- [Collections](IF/IF_2017_Collections.tsv) (Biology, Cardiac & cardiovascular systems, Emergency medicine, Genetics & heredity, Medical informatics, General and internal medicine, research & experimental medicine, Microbiology, Public, environmental and occupational health, Statistics & probability),
- [Genetics & Heredity](IF/IF_2017_Genetics_&_Heredity.tsv),
- [Statistics](IF/IF_2017_Statistics.tsv)
+ [Collections](IF/IF_2017_Collections.csv) (Biology, Cardiac & cardiovascular systems, Emergency medicine, Genetics & heredity, Medical informatics, General and internal medicine, research & experimental medicine, Microbiology, Public, environmental and occupational health, Statistics & probability),
+ [Genetics & Heredity](IF/IF_2017_Genetics_&_Heredity.csv),
+ [Statistics](IF/IF_2017_Statistics.csv)
 
 ### The Royal Statistical Society
 
