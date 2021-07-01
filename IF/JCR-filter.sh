@@ -6,4 +6,9 @@ chmod -x csv/*
 
 ls csv | \
 xargs -l basename -s .csv | \
-parallel "awk '/Rank|Journal name/,/Copyright/' csv/{}.csv | awk NF | grep -v Copyright | tr ',' '\t'> {}.tsv"
+parallel "
+   awk '/Rank|Journal name/,/Copyright/' csv/{}.csv | \
+   awk '!/^$/ && !/Copyright/' | \
+   sed -r ':L;s=\b([0-9]+),([0-9]+)\b=\1\2=g;t L' | \
+   tr ',' '\t'> {}.tsv
+"
