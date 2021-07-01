@@ -31,7 +31,7 @@ Once logged into your google account, go to [https://scholar.google.co.uk/](http
 
 [https://jcr.clarivate.com/](https://jcr.clarivate.com/) (from .csv to .csv by [JCR-filter.sh](IF/JCR-filter.sh))
 
-**2020**
+**2020** (yes, they are .csv which GitHub, R but Excel could handle them!!!)
 
  [All](IF/IF_2020_All.csv),
  [Cardiac & Cardiovascular Systems](IF/IF_2020_Cardiac_&_Cardiovascular_Systems.csv),
