@@ -33,16 +33,16 @@ Once logged into your google account, go to [https://scholar.google.co.uk/](http
 
 **2020**
 
- [AI](IF_2020_AI.csv),
- [Biology](IF_2020_Biology.csv),
- [Clinical Neurology](IF_2020_ClinicalNeurology.csv),
- [CVD](IF_2020_CVD.csv),
- [Epidemiology, Public Health](IF_2020_EpiPubHealth.csv),
- [Genetics](IF_2020_Genetics.csv),
- [Haematology](IF_2020_Haematology.csv),
- [Informatics](IF_2020_Informatics.csv),
- [Medicine](IF_2020_Medicine.csv),
- [Statistics](IF_2020_Statistics.csv)
+ [AI](IF/IF_2020_AI.csv),
+ [Biology](IF/IF_2020_Biology.csv),
+ [Clinical Neurology](IF/IF_2020_ClinicalNeurology.csv),
+ [CVD](IF/IF_2020_CVD.csv),
+ [Epidemiology, Public Health](IF/IF_2020_EpiPubHealth.csv),
+ [Genetics](IF/IF_2020_Genetics.csv),
+ [Haematology](IF/IF_2020_Haematology.csv),
+ [Informatics](IF/IF_2020_Informatics.csv),
+ [Medicine](IF/IF_2020_Medicine.csv),
+ [Statistics](IF/IF_2020_Statistics.csv)
 
 **2019**
 
