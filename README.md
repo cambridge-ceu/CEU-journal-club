@@ -21,7 +21,7 @@ Lonsdale A, Sietsma Penington J, Rice T, Walker M, Dashnow H (2016). Ten simple 
 
 ### REF2021
 
-[https://results2021.ref.ac.uk/](https://results2021.ref.ac.uk/) ([Times](https://www.timeshighereducation.com/news/ref-2021-research-excellence-framework-results-announced))
+[https://results2021.ref.ac.uk/](https://results2021.ref.ac.uk/) ([Times Higher Education](https://www.timeshighereducation.com/news/ref-2021-research-excellence-framework-results-announced))
 
 ### Google scholar profile
 
