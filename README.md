@@ -19,6 +19,10 @@ Lonsdale A, Sietsma Penington J, Rice T, Walker M, Dashnow H (2016). Ten simple 
 
 ---
 
+### REF2021
+
+[https://results2021.ref.ac.uk/](https://results2021.ref.ac.uk/) ([Times](https://www.timeshighereducation.com/news/ref-2021-research-excellence-framework-results-announced))
+
 ### Google scholar profile
 
 We encourage anyone with research outputs to set up a google scholar profile: it helps others in finding your publications more easily, is associated with higher citation rates, and can boost your profile. It also facilitates data capture on publications, thus helping, for example, in preparing grant applications and REF returns.
