@@ -1,6 +1,6 @@
 <a href="https://phdcomics.com/comics/archive_print.php?comicid=963"><img src="http://phdcomics.com/comics/archive/phd011108s.gif" width="560" height="250" align="right"></a>
 
-# Cardiovascular Epidemiology Unit (CEU) journal clubs
+**Cardiovascular Epidemiology Unit (CEU) journal clubs**
 
 ## Journal clubs
 
