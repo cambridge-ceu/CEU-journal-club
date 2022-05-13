@@ -1,6 +1,8 @@
 <a href="https://phdcomics.com/comics/archive_print.php?comicid=963"><img src="http://phdcomics.com/comics/archive/phd011108s.gif" width="560" height="250" align="right"></a>
 
-This repository contains information on the journal club at the Cardiovascular Epidemiology Unit (CEU).
+# Cardiovascular Epidemiology Unit (CEU) journal clubs
+
+## Journal clubs
 
 * **Format**. Each session has a leading discussant with contribution from others.
 * **Venue**. The Old Library / The Pod.
@@ -11,15 +13,21 @@ This repository contains information on the journal club at the Cardiovascular E
 
 Keep rrreeeeeeaaaaaaaaading!!!
 
-### References
+## Google scholar profile
+
+We encourage anyone with research outputs to set up a google scholar profile: it helps others in finding your publications more easily, is associated with higher citation rates, and can boost your profile. It also facilitates data capture on publications, thus helping, for example, in preparing grant applications and REF returns.
+
+[Google workspace](https://help.uis.cam.ac.uk/service/collaboration/workspace) is available through the University, [https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login](https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login).
+
+Once logged into your google account, go to [https://scholar.google.co.uk/](https://scholar.google.co.uk/), click “my profile”, complete the form on affiliation, keywords etc, and ensure that your profile is set to “public”.  You will be prompted for an email address: use your university one. Add a photo if you like. Scholar will prompt you with articles it believes are yours; you can select those that do belong to you. You can manually add missing publications. Once set up, Scholar will automatically populate your profile with new publications, but you may need to keep an eye that it has not missed any or that it is not assigning other people’s publications to you.
+
+## References
 
 Leaman R, Wei C-H, Allot A, Lu Z (2020) Ten tips for a text-mining-ready article: How to improve automated discoverability and interpretability. *PLoS Biol* 18(6): e3000716. [https://doi.org/10.1371/journal.pbio.3000716](https://doi.org/10.1371/journal.pbio.3000716).
 
 Lonsdale A, Sietsma Penington J, Rice T, Walker M, Dashnow H (2016). Ten simple rules for a bioinformatics journal club. *PLoS Comput Biol*, 12(1), e1004526, [https://doi.org/10.1371/journal.pcbi.1004526](https://doi.org/10.1371/journal.pcbi.1004526)
 
----
-
-### REF2021
+## REF2021
 
 [https://results2021.ref.ac.uk/](https://results2021.ref.ac.uk/) ([Times Higher Education](https://www.timeshighereducation.com/news/ref-2021-research-excellence-framework-results-announced))
 
@@ -37,15 +45,7 @@ Lonsdale A, Sietsma Penington J, Rice T, Walker M, Dashnow H (2016). Ten simple 
 
 > For the purpose of the REF, each academic discipline is assigned to one of 34 units of assessment such as Clinical Medicine, Chemistry, Business and Management Studies and Philosophy. Each unit is judged by three criteria – outputs (such as publications, performances, and exhibitions), their impact, and the environment that supports research.
 
-### Google scholar profile
-
-We encourage anyone with research outputs to set up a google scholar profile: it helps others in finding your publications more easily, is associated with higher citation rates, and can boost your profile. It also facilitates data capture on publications, thus helping, for example, in preparing grant applications and REF returns.
-
-[Google workspace](https://help.uis.cam.ac.uk/service/collaboration/workspace) is available through the University, [https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login](https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login).
-
-Once logged into your google account, go to [https://scholar.google.co.uk/](https://scholar.google.co.uk/), click “my profile”, complete the form on affiliation, keywords etc, and ensure that your profile is set to “public”.  You will be prompted for an email address: use your university one. Add a photo if you like. Scholar will prompt you with articles it believes are yours; you can select those that do belong to you. You can manually add missing publications. Once set up, Scholar will automatically populate your profile with new publications, but you may need to keep an eye that it has not missed any or that it is not assigning other people’s publications to you.
-
-### Journal<sup>+</sup> impact factors
+## Journal<sup>+</sup> impact factors
 
 (**Data compiled by Dr Steven Bell**)
 
