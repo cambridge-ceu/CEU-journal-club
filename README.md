@@ -99,7 +99,7 @@ Lonsdale A, Sietsma Penington J, Rice T, Walker M, Dashnow H (2016). Ten simple 
  [Genetics & Heredity](IF/IF_2017_Genetics_&_Heredity.csv),
  [Statistics](IF/IF_2017_Statistics.csv)
 
-### The Royal Statistical Society
+## The Royal Statistical Society
 
 * [Discussion papers](https://rss.org.uk/news-publication/publications/journals/discussion-papers-meetings/)
 * [Events including online interactive discussion meeting](https://rss.org.uk/training-events/events/events-2020/)
