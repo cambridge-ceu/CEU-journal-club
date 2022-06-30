@@ -98,9 +98,7 @@ Direct link: [https://jcr.clarivate.com/jcr/browse-categories](https://jcr.clari
 [Pubmed field descriptions and tags](https://www.ncbi.nlm.nih.gov/books/NBK3827/#pubmedhelp.Search_Field_Descriptions_and),
 [PubTator](https://www.ncbi.nlm.nih.gov/research/pubtator/).
 
-[^ref2021]: ## REF2021
-
-    [https://results2021.ref.ac.uk/](https://results2021.ref.ac.uk/) ([Times Higher Education](https://www.timeshighereducation.com/news/ref-2021-research-excellence-framework-results-announced))
+[^ref2021]: REF2021, [https://results2021.ref.ac.uk/](https://results2021.ref.ac.uk/) ([Times Higher Education](https://www.timeshighereducation.com/news/ref-2021-research-excellence-framework-results-announced))
 
     > The results from the latest Research Excellence Framework (REF) have highlighted the global impact of Cambridge’s research in Public Health, Health Services and Primary Care unit of assessment. The vast majority – 97% – of Cambridge’s submitted work has been rated as ‘world-leading’ or ‘internationally excellent’ (see https://results2021.ref.ac.uk/). 
 
