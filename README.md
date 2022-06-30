@@ -51,6 +51,12 @@ Lonsdale A, Sietsma Penington J, Rice T, Walker M, Dashnow H (2016). Ten simple 
 
 [https://jcr.clarivate.com/](https://jcr.clarivate.com/) (from .csv to .csv by [JCR-filter.sh](IF/JCR-filter.sh))
 
+**2021**
+
+Direct link: [https://jcr.clarivate.com/jcr/browse-categories](https://jcr.clarivate.com/jcr/browse-categories).
+
+[CARDIAC & CARDIOVASCULAR SYSTEMS](IF/csv/2021/CARDIAC & CARDIOVASCULAR SYSTEMS.csv),[GENETICS & HEREDITY](IF/csv/2021/GENETICS & HEREDITY.csv),[STATISTICS & PROBABILITY](IF/csv/2021/STATISTICS & PROBABILITY.csv).
+
 **2020**
 
  [AI](IF/IF_2020_AI.csv),
