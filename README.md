@@ -27,7 +27,7 @@ Leaman R, Wei C-H, Allot A, Lu Z (2020) Ten tips for a text-mining-ready article
 
 Lonsdale A, Sietsma Penington J, Rice T, Walker M, Dashnow H (2016). Ten simple rules for a bioinformatics journal club. *PLoS Comput Biol*, 12(1), e1004526, [https://doi.org/10.1371/journal.pcbi.1004526](https://doi.org/10.1371/journal.pcbi.1004526)
 
-## Journal[^1] impact factors
+## Journal[^+] impact factors
 
 (**2018-2020 data compiled by Dr Steven Bell**)
 
@@ -112,6 +112,6 @@ Direct link: [https://jcr.clarivate.com/jcr/browse-categories](https://jcr.clari
 
 ---
 
-[^1]: [NLM Catalog: Journals referenced in the NCBI Databases](https://www.ncbi.nlm.nih.gov/nlmcatalog/journals), 
+[^+]: [NLM Catalog: Journals referenced in the NCBI Databases](https://www.ncbi.nlm.nih.gov/nlmcatalog/journals), 
 [Pubmed field descriptions and tags](https://www.ncbi.nlm.nih.gov/books/NBK3827/#pubmedhelp.Search_Field_Descriptions_and),
 [PubTator](https://www.ncbi.nlm.nih.gov/research/pubtator/).
