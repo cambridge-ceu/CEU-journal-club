@@ -29,9 +29,7 @@ Lonsdale A, Sietsma Penington J, Rice T, Walker M, Dashnow H (2016). Ten simple 
 
 ## Journal[^1] impact factors
 
-(**2018-2020 data compiled by Dr Steven Bell**)
-
-[https://jcr.clarivate.com/](https://jcr.clarivate.com/) (from .csv to .csv by [JCR-filter.sh](IF/JCR-filter.sh))
+(**2018-2020 data compiled by Dr Steven Bell** with [JCR-filter.sh](IF/JCR-filter.sh))
 
 **2021**[^ref2021]
 
