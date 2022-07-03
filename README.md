@@ -33,7 +33,9 @@ Lonsdale A, Sietsma Penington J, Rice T, Walker M, Dashnow H (2016). Ten simple 
 
 **2021**[^ref2021]
 
-Direct link: [https://jcr.clarivate.com/jcr/browse-categories](https://jcr.clarivate.com/jcr/browse-categories).
+Browse journals: [https://jcr.clarivate.com/jcr/browse-journals](https://jcr.clarivate.com/jcr/browse-journals). Note that the Lancet overtook *NEJM* the first time in 45 years due to publications of COVID-related papers.
+
+Browse categories: [https://jcr.clarivate.com/jcr/browse-categories](https://jcr.clarivate.com/jcr/browse-categories).
 
 [CARDIAC & CARDIOVASCULAR SYSTEMS](IF/csv/2021-CARDIAC & CARDIOVASCULAR SYSTEMS.csv), [GENETICS & HEREDITY](IF/csv/2021-GENETICS & HEREDITY.csv), [STATISTICS & PROBABILITY](IF/csv/2021-STATISTICS & PROBABILITY.csv).
 
