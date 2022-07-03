@@ -35,9 +35,7 @@ Lonsdale A, Sietsma Penington J, Rice T, Walker M, Dashnow H (2016). Ten simple 
 
 Browse journals: [https://jcr.clarivate.com/jcr/browse-journals](https://jcr.clarivate.com/jcr/browse-journals). *The Lancet* overtook *The New England Journal of Medicine (NEJM)* "for the first time in 45 years". "High-profile pandemic research may explain the shift: *The Lancet* published three of the 10 most cited articles in 2021, all of them related to COVID-19" (*Science* 1 JULY 2022 - 377(6601)).
 
-Browse categories: [https://jcr.clarivate.com/jcr/browse-categories](https://jcr.clarivate.com/jcr/browse-categories).
-
-[CARDIAC & CARDIOVASCULAR SYSTEMS](IF/csv/2021-CARDIAC & CARDIOVASCULAR SYSTEMS.csv), [GENETICS & HEREDITY](IF/csv/2021-GENETICS & HEREDITY.csv), [STATISTICS & PROBABILITY](IF/csv/2021-STATISTICS & PROBABILITY.csv).
+Browse categories: [https://jcr.clarivate.com/jcr/browse-categories](https://jcr.clarivate.com/jcr/browse-categories). Some notable categories are [CARDIAC & CARDIOVASCULAR SYSTEMS](IF/csv/2021-CARDIAC & CARDIOVASCULAR SYSTEMS.csv), [GENETICS & HEREDITY](IF/csv/2021-GENETICS & HEREDITY.csv), [STATISTICS & PROBABILITY](IF/csv/2021-STATISTICS & PROBABILITY.csv).
 
 **2020**
 
