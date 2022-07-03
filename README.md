@@ -33,7 +33,7 @@ Lonsdale A, Sietsma Penington J, Rice T, Walker M, Dashnow H (2016). Ten simple 
 
 **2021**[^ref2021]
 
-Browse journals: [https://jcr.clarivate.com/jcr/browse-journals](https://jcr.clarivate.com/jcr/browse-journals). Note that the Lancet overtook *NEJM* the first time in 45 years due to publications of COVID-related papers.
+Browse journals: [https://jcr.clarivate.com/jcr/browse-journals](https://jcr.clarivate.com/jcr/browse-journals). Note that the Lancet overtook *The New England Journal of Medicine (NEJM)* the first time in 45 years. *The Lancet* published three of the 10 most cited articles in 2021, all of them related to COVID-19 (*Science* 1 JULY 2022 - 377(6601)).
 
 Browse categories: [https://jcr.clarivate.com/jcr/browse-categories](https://jcr.clarivate.com/jcr/browse-categories).
 
