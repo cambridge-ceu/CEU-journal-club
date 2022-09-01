@@ -1,4 +1,4 @@
-# 3-2-2020 JHZ
+#!/usr/bin/bash
 
 git add README.md
 git commit -m "README"
@@ -13,3 +13,6 @@ git commit -m "discussed papers"
 git add st.sh
 git commit -m "batch"
 git push
+
+# 1-9-2022 add mike.md
+# 3-2-2020 JHZ
