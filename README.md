@@ -6,7 +6,7 @@
 
 * **Format**. Each session has a leading discussant with contribution from others.
 * **Venue**. The Old Library / The Pod.
-* **Schedule**. Past and coming sessions are in [**this list**](schedule.md): [https://cambridge-ceu.github.io/CEU-journal-club/schedule.html](https://cambridge-ceu.github.io/CEU-journal-club/schedule.html).
+* **Schedule**. Past and coming sessions are in [**this list**](schedule.md): [https://cambridge-ceu.github.io/CEU-journal-club/schedule.html](https://cambridge-ceu.github.io/CEU-journal-club/schedule.html) and list from Mike's group [https://cambridge-ceu.github.io/CEU-journal-club/mike.html](https://cambridge-ceu.github.io/CEU-journal-club/mike.html).
 * **Email**. Information on each session and remainder are circulated in the <a href="mailto:phpc-ceu-genjc-bounces@lists.cam.ac.uk">mailing list</a>: phpc-ceu-genjc-bounces@lists.cam.ac.uk.
 * **Web**. [https://cambridge-ceu.github.io/CEU-journal-club/](https://cambridge-ceu.github.io/CEU-journal-club/).
 * **Impact**. See [Journal impact factors](https://cambridge-ceu.github.io/CEU-journal-club/#journal-impact-factors) (also https://github.com/cambridge-ceu/CEU-journal-club#journal-impact-factors).
