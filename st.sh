@@ -2,7 +2,7 @@
 
 git add README.md
 git commit -m "README"
-git add schedule.md
+git add schedule.md mike.md
 git commit -m "schedule"
 git add calendarview-1.2 fullcalendar-4.3.1
 git commit -m "Calendar"
