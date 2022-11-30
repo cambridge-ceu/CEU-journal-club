@@ -14,4 +14,4 @@
 
 [^contact]:
 
-    Contact <mailto:xj262@medsch.cam.ac.uk> for interest to present.
+    Contact Xilin Jiang via email, <mailto:xj262@medsch.cam.ac.uk>, for interest to present.
