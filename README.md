@@ -90,6 +90,12 @@ Browse categories: [https://jcr.clarivate.com/jcr/browse-categories](https://jcr
 * [Discussion papers](https://rss.org.uk/news-publication/publications/journals/discussion-papers-meetings/)
 * [Events including online interactive discussion meeting](https://rss.org.uk/training-events/events/events-2020/)
 
+## Utititlies
+
+* [AuthorArranger](https://authorarranger.nci.nih.gov/)
+* [MyEndNoteWeb](https://access.clarivate.com/login?app=endnote)
+* [Sciwheel](https://sciwheel.com/)
+
 ---
 
 [^1]: [NLM Catalog: Journals referenced in the NCBI Databases](https://www.ncbi.nlm.nih.gov/nlmcatalog/journals), [Pubmed field descriptions and tags](https://www.ncbi.nlm.nih.gov/books/NBK3827/#pubmedhelp.Search_Field_Descriptions_and), [PubTator](https://www.ncbi.nlm.nih.gov/research/pubtator/).
