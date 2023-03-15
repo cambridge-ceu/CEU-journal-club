@@ -4,7 +4,7 @@
    Date       | Presenter | URL                                                                           | Venue
 --------------|-----------|-------------------------------------------------------------------------------|-------------------------
 **2022--2023**|           |                                                                               | Virtual/Hybrid
-   16/03/2023 | Carles    | <https://www.sciencedirect.com/science/article/pii/S2405471220305020?>        | Virtual/Hybrid
+   16/03/2023 | Carles    | <https://www.sciencedirect.com/science/article/pii/S2405471220305020?>        | Meeting room 2.R059/Zoom
    09/02/2023 | Scott     | <https://www.medrxiv.org/content/10.1101/2023.01.07.23284293v3>               | Virtual
    26/01/2023 | Emma      | <https://www.nature.com/articles/s41591-021-01238-4>                          | Virtual
    15/12/2022 | Sam       | <https://www.nature.com/articles/s41588-022-01200-1>                          | Meeting room 2.R034/Zoom
