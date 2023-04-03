@@ -4,6 +4,7 @@
    Date       | Presenter | URL                                                                           | Venue
 --------------|-----------|-------------------------------------------------------------------------------|-------------------------
 **2022--2023**|           |                                                                               | Virtual/Hybrid
+   06/04/2023 | Sol       | [Network propagation: a universal amplifier of genetic associations](https://www.nature.com/articles/nrg.2017.38) | Meeting room 2.R034/Zoom
    23/03/2023 | Zhengyang | [Multi-ancestry transcriptome-wide association analyses yield insights into tobacco use biology and drug repurposing](https://www.nature.com/articles/s41588-022-01282-x)                          | Meeting room 2.R059/Zoom
    16/03/2023 | Carles    | <https://www.sciencedirect.com/science/article/pii/S2405471220305020?>        | Meeting room 2.R059/Zoom
    09/02/2023 | Scott     | <https://www.medrxiv.org/content/10.1101/2023.01.07.23284293v3>               | Virtual
