@@ -4,6 +4,7 @@
    Date       | Presenter | URL                                                                           | Venue
 --------------|-----------|-------------------------------------------------------------------------------|-------------------------
 **2022--2023**|           |                                                                               | Virtual/Hybrid
+   04/05/2023 | Chief     | [Proteome-wide Mendelian randomization in global biobank meta-analysis reveals multi-ancestry drug targets for common diseases](https://doi.org/10.1016/j.xgen.2022.100195) | Meeting room 2.R034/Zoom
    19/04/2023 | Elodie    | [Mendelian randomization and genetic colocalization infer the effects of the multi-tissue proteome on 211 complex disease-related phenotypes](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01140-9) | 1st floor/Zoom
    06/04/2023 | Sol       | [Network propagation: a universal amplifier of genetic associations](https://www.nature.com/articles/nrg.2017.38) | Meeting room 2.R034/Zoom
    23/03/2023 | Zhengyang | [Multi-ancestry transcriptome-wide association analyses yield insights into tobacco use biology and drug repurposing](https://www.nature.com/articles/s41588-022-01282-x)                          | Meeting room 2.R059/Zoom
