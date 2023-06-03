@@ -5,7 +5,7 @@
 ## Journal clubs
 
 * **Format**. Each session has a leading discussant with contribution from others.
-* **Venue**. The Old Library / The Pod.
+* **Venue**. The Old Library / The Pod / HLRI.
 * **Schedule**.
   - <https://cambridge-ceu.github.io/CEU-journal-club/schedule.html>
   - <https://cambridge-ceu.github.io/CEU-journal-club/mike.html> (Mike's group)
