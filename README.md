@@ -6,10 +6,12 @@
 
 * **Format**. Each session has a leading discussant with contribution from others.
 * **Venue**. The Old Library / The Pod.
-* **Schedule**. Past and coming sessions are in [**this list**](schedule.md): [https://cambridge-ceu.github.io/CEU-journal-club/schedule.html](https://cambridge-ceu.github.io/CEU-journal-club/schedule.html) and list from Mike's group [https://cambridge-ceu.github.io/CEU-journal-club/mike.html](https://cambridge-ceu.github.io/CEU-journal-club/mike.html).
-* **Email**. Information on each session and remainder are circulated in the <a href="mailto:phpc-ceu-genjc-bounces@lists.cam.ac.uk">mailing list</a>: phpc-ceu-genjc-bounces@lists.cam.ac.uk and circulation for Mike's group is with [phpc-ceu-group@lists.cam.ac.uk](mailto:phpc-ceu-group@lists.cam.ac.uk).
-* **Web**. [https://cambridge-ceu.github.io/CEU-journal-club/](https://cambridge-ceu.github.io/CEU-journal-club/).
-* **Impact**. See [Journal impact factors](https://cambridge-ceu.github.io/CEU-journal-club/#journal-impact-factors) (also https://github.com/cambridge-ceu/CEU-journal-club#journal-impact-factors).
+* **Schedule**. Past and coming sessions are
+  - [**this list**](schedule.md): <https://cambridge-ceu.github.io/CEU-journal-club/schedule.html>
+  - list from Mike's group <https://cambridge-ceu.github.io/CEU-journal-club/mike.html>
+* **Email**. Information on each session and remainder are circulated in the <a href="mailto:phpc-ceu-genjc-bounces@lists.cam.ac.uk">mailing list</a>: phpc-ceu-genjc-bounces@lists.cam.ac.uk and circulation for Mike's group is with [phpc-ceu-group@lists.cam.ac.uk](mailto:phpc-ceu-group@lists.cam.ac.uk)
+* **Web**. <https://cambridge-ceu.github.io/CEU-journal-club/>
+* **Impact**. See [Journal impact factors](https://cambridge-ceu.github.io/CEU-journal-club/#journal-impact-factors), <https://github.com/cambridge-ceu/CEU-journal-club#journal-impact-factors>
 
 Keep rrreeeeeeaaaaaaaaading!!!
 
@@ -17,9 +19,9 @@ Keep rrreeeeeeaaaaaaaaading!!!
 
 We encourage anyone with research outputs to set up a google scholar profile: it helps others in finding your publications more easily, is associated with higher citation rates, and can boost your profile. It also facilitates data capture on publications, thus helping, for example, in preparing grant applications and REF returns.
 
-[Google workspace](https://help.uis.cam.ac.uk/service/collaboration/workspace) is available through the University, [https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login](https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login).
+[Google workspace](https://help.uis.cam.ac.uk/service/collaboration/workspace) is available through the University, <https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login>.
 
-Once logged into your google account, go to [https://scholar.google.co.uk/](https://scholar.google.co.uk/), click “my profile”, complete the form on affiliation, keywords etc, and ensure that your profile is set to “public”.  You will be prompted for an email address: use your university one. Add a photo if you like. Scholar will prompt you with articles it believes are yours; you can select those that do belong to you. You can manually add missing publications. Once set up, Scholar will automatically populate your profile with new publications, but you may need to keep an eye that it has not missed any or that it is not assigning other people’s publications to you.
+Once logged into your google account, go to <https://scholar.google.co.uk/>, click “my profile”, complete the form on affiliation, keywords etc, and ensure that your profile is set to “public”.  You will be prompted for an email address: use your university one. Add a photo if you like. Scholar will prompt you with articles it believes are yours; you can select those that do belong to you. You can manually add missing publications. Once set up, Scholar will automatically populate your profile with new publications, but you may need to keep an eye that it has not missed any or that it is not assigning other people’s publications to you.
 
 ## References
 
@@ -33,9 +35,9 @@ Lonsdale A, Sietsma Penington J, Rice T, Walker M, Dashnow H (2016). Ten simple 
 
 **2021**[^ref2021]
 
-Browse journals: [https://jcr.clarivate.com/jcr/browse-journals](https://jcr.clarivate.com/jcr/browse-journals). *The Lancet* overtook *The New England Journal of Medicine (NEJM)* "for the first time in 45 years". "High-profile pandemic research may explain the shift: *The Lancet* published three of the 10 most cited articles in 2021, all of them related to COVID-19" (*Science* 1 JULY 2022 - 377(6601)).
+Browse journals: <https://jcr.clarivate.com/jcr/browse-journals>. *The Lancet* overtook *The New England Journal of Medicine (NEJM)* "for the first time in 45 years". "High-profile pandemic research may explain the shift: *The Lancet* published three of the 10 most cited articles in 2021, all of them related to COVID-19" (*Science* 1 JULY 2022 - 377(6601)).
 
-Browse categories: [https://jcr.clarivate.com/jcr/browse-categories](https://jcr.clarivate.com/jcr/browse-categories). Some notable categories are [CARDIAC & CARDIOVASCULAR SYSTEMS](IF/csv/2021-CARDIAC & CARDIOVASCULAR SYSTEMS.csv), [GENETICS & HEREDITY](IF/csv/2021-GENETICS & HEREDITY.csv), [STATISTICS & PROBABILITY](IF/csv/2021-STATISTICS & PROBABILITY.csv).
+Browse categories: <https://jcr.clarivate.com/jcr/browse-categories>. Some notable categories are [CARDIAC & CARDIOVASCULAR SYSTEMS](IF/csv/2021-CARDIAC & CARDIOVASCULAR SYSTEMS.csv), [GENETICS & HEREDITY](IF/csv/2021-GENETICS & HEREDITY.csv), [STATISTICS & PROBABILITY](IF/csv/2021-STATISTICS & PROBABILITY.csv).
 
 **2020**
 
