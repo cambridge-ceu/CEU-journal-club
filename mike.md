@@ -1,4 +1,3 @@
-
 ## Journal clubs by Mike's group[^contact]
 
    Date       | Presenter | URL                                                                           | Venue
