@@ -3,6 +3,7 @@
    Date       | Presenter | URL                                                                           | Venue
 --------------|-----------|-------------------------------------------------------------------------------|-------------------------
 **2022--2023**|           |                                                                               | Virtual/Hybrid
+   12/07/2023 | Scott     | [Efficient and accurate causal inference with hidden confounders from genome-transcriptome variation data](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005703) | Meeting room 2.R034/Zoom
    22/06/2023 | Loic      | [Heart-brain connections: Phenotypic and genetic insights from magnetic resonance images](https://www.science.org/doi/10.1126/science.abn6598) | Meeting room 0.R097/Zoom
    01/06/2023 | Xilin     | [Polygenic architecture of rare coding variation across 394,783 exomes](https://www.nature.com/articles/s41586-022-05684-z)     | Meeting room 2.R034/Zoom
    18/05/2023 | Yu        | [A unified framework for joint-tissue transcriptome-wide association and Mendelian randomization analysis](https://www.nature.com/articles/s41588-020-0706-2) | Meeting Room 2.R034/Zoom
