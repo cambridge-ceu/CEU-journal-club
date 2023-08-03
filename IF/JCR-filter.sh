@@ -13,3 +13,6 @@ parallel "
 #  sed -r ':L;s|\b(\"[0-9]+)\t([0-9]+\")\b|\1\2|g;t L' | \
 #  sed -r 's/(\"[0-9]+)\t([0-9]+\")/\1\2/g' > {}.tsv
 
+# manually
+# sed '1,2d' file
+# tac file | sed '1,3d' | tac > csv
