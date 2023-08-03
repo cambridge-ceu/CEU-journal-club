@@ -87,11 +87,6 @@ Browse categories: <https://jcr.clarivate.com/jcr/browse-categories>. Some notab
  [Genetics & Heredity](IF/IF_2017_Genetics_&_Heredity.csv),
  [Statistics](IF/IF_2017_Statistics.csv)
 
-## The Royal Statistical Society
-
-* [Discussion papers](https://rss.org.uk/news-publication/publications/journals/discussion-papers-meetings/)
-* [Events including online interactive discussion meeting](https://rss.org.uk/training-events/events/events-2020/)
-
 ## The iCite database
 
 <https://icite.od.nih.gov/stats>
@@ -101,6 +96,11 @@ Browse categories: <https://jcr.clarivate.com/jcr/browse-categories>. Some notab
 * [AuthorArranger](https://authorarranger.nci.nih.gov/)
 * [MyEndNoteWeb](https://access.clarivate.com/login?app=endnote)
 * [Sciwheel](https://sciwheel.com/)
+
+## The Royal Statistical Society
+
+* [Discussion papers](https://rss.org.uk/news-publication/publications/journals/discussion-papers-meetings/)
+* [Events including online interactive discussion meeting](https://rss.org.uk/training-events/events/events-2020/)
 
 ---
 
