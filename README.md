@@ -29,10 +29,6 @@ Leaman R, Wei C-H, Allot A, Lu Z (2020) Ten tips for a text-mining-ready article
 
 Lonsdale A, Sietsma Penington J, Rice T, Walker M, Dashnow H (2016). Ten simple rules for a bioinformatics journal club. *PLoS Comput Biol*, 12(1), e1004526, [https://doi.org/10.1371/journal.pcbi.1004526](https://doi.org/10.1371/journal.pcbi.1004526)
 
-## The iCite database
-
-<https://icite.od.nih.gov/stats>
-
 ## Journal[^1] impact factors
 
 (**2018-2020 data compiled by Dr Steven Bell**)
@@ -95,6 +91,10 @@ Browse categories: <https://jcr.clarivate.com/jcr/browse-categories>. Some notab
 
 * [Discussion papers](https://rss.org.uk/news-publication/publications/journals/discussion-papers-meetings/)
 * [Events including online interactive discussion meeting](https://rss.org.uk/training-events/events/events-2020/)
+
+## The iCite database
+
+<https://icite.od.nih.gov/stats>
 
 ## Utititlies
 
