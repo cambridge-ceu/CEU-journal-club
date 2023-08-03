@@ -99,6 +99,7 @@ Browse categories: <https://jcr.clarivate.com/jcr/browse-categories>. Some notab
 
 ## The Royal Statistical Society
 
+* [Best Practices for Data Visualisation](https://royal-statistical-society.github.io/datavisguide/)
 * [Discussion papers](https://rss.org.uk/news-publication/publications/journals/discussion-papers-meetings/)
 * [Events including online interactive discussion meeting](https://rss.org.uk/training-events/events/events-2020/)
 
