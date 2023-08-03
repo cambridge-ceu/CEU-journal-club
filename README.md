@@ -15,6 +15,12 @@
 
 Keep rrreeeeeeaaaaaaaaading!!!
 
+## References
+
+Leaman R, Wei C-H, Allot A, Lu Z (2020) Ten tips for a text-mining-ready article: How to improve automated discoverability and interpretability. *PLoS Biol* 18(6): e3000716. [https://doi.org/10.1371/journal.pbio.3000716](https://doi.org/10.1371/journal.pbio.3000716).
+
+Lonsdale A, Sietsma Penington J, Rice T, Walker M, Dashnow H (2016). Ten simple rules for a bioinformatics journal club. *PLoS Comput Biol*, 12(1), e1004526, [https://doi.org/10.1371/journal.pcbi.1004526](https://doi.org/10.1371/journal.pcbi.1004526)
+
 ## Google scholar profile
 
 We encourage anyone with research outputs to set up a google scholar profile: it helps others in finding your publications more easily, is associated with higher citation rates, and can boost your profile. It also facilitates data capture on publications, thus helping, for example, in preparing grant applications and REF returns.
@@ -22,12 +28,6 @@ We encourage anyone with research outputs to set up a google scholar profile: it
 [Google workspace](https://help.uis.cam.ac.uk/service/collaboration/workspace) is available through the University, <https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login>.
 
 Once logged into your google account, go to <https://scholar.google.co.uk/>, click “my profile”, complete the form on affiliation, keywords etc, and ensure that your profile is set to “public”.  You will be prompted for an email address: use your university one. Add a photo if you like. Scholar will prompt you with articles it believes are yours; you can select those that do belong to you. You can manually add missing publications. Once set up, Scholar will automatically populate your profile with new publications, but you may need to keep an eye that it has not missed any or that it is not assigning other people’s publications to you.
-
-## References
-
-Leaman R, Wei C-H, Allot A, Lu Z (2020) Ten tips for a text-mining-ready article: How to improve automated discoverability and interpretability. *PLoS Biol* 18(6): e3000716. [https://doi.org/10.1371/journal.pbio.3000716](https://doi.org/10.1371/journal.pbio.3000716).
-
-Lonsdale A, Sietsma Penington J, Rice T, Walker M, Dashnow H (2016). Ten simple rules for a bioinformatics journal club. *PLoS Comput Biol*, 12(1), e1004526, [https://doi.org/10.1371/journal.pcbi.1004526](https://doi.org/10.1371/journal.pcbi.1004526)
 
 ## Journal[^1] impact factors
 
