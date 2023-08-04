@@ -98,17 +98,17 @@ Some notable categories are [CARDIAC & CARDIOVASCULAR SYSTEMS](IF/csv/2021-CARDI
 
 <https://icite.od.nih.gov/stats>
 
-## Utititlies
-
-* [AuthorArranger](https://authorarranger.nci.nih.gov/)
-* [MyEndNoteWeb](https://access.clarivate.com/login?app=endnote)
-* [Sciwheel](https://sciwheel.com/)
-
 ## The Royal Statistical Society
 
 * [Best Practices for Data Visualisation](https://royal-statistical-society.github.io/datavisguide/)
 * [Discussion papers](https://rss.org.uk/news-publication/publications/journals/discussion-papers-meetings/)
 * [Events including online interactive discussion meeting](https://rss.org.uk/training-events/events/events-2020/)
+
+## Utititlies
+
+* [AuthorArranger](https://authorarranger.nci.nih.gov/)
+* [MyEndNoteWeb](https://access.clarivate.com/login?app=endnote)
+* [Sciwheel](https://sciwheel.com/)
 
 ---
 
