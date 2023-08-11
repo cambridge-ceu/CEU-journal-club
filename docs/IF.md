@@ -5,6 +5,9 @@
 
 (**2018-2020 data compiled by Dr Steven Bell**)
 
+If you do not wish to download the CSV files, please use the
+<p align="center", style="color:red;font-size:30px"><b> [GitHub](https://github.com/cambridge-ceu/CEU-journal-club)</b> to navigate to the designated file(s).</p>
+
 **2022**
 
 Some notable categories are [CARDIAC & CARDIOVASCULAR SYSTEMS](IF/csv/2022-CARDIAC & CARDIOVASCULAR SYSTEMS.csv), [GENETICS & HEREDITY](IF/csv/2022-GENETICS & HEREDITY.csv), [STATISTICS & PROBABILITY](IF/csv/2022-STATISTICS & PROBABILITY.csv).
