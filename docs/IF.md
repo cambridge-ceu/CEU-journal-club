@@ -5,8 +5,7 @@
 
 (**2018-2020 data compiled by Dr Steven Bell**)
 
-If you do not wish to download the CSV files, please use the
-<p align="center", style="font-size:30px" <a href="https://github.com/cambridge-ceu/CEU-journal-club"><font color="red"><b>GitHub</b></a> to navigate to the designated file(s).</p>
+If you do not wish to download the CSV files, please use the <a href="https://github.com/cambridge-ceu/CEU-journal-club"><font color="red"><b>GitHub</b></a> to navigate to the designated file(s).
 
 **2022**
 
