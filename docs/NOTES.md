@@ -1,10 +1,10 @@
-### NCBI/PubMed journals
+## NCBI/PubMed journals
 
 - [NLM Catalog: Journals referenced in the NCBI Databases](https://www.ncbi.nlm.nih.gov/nlmcatalog/journals)
 - [Pubmed field descriptions and tags](https://www.ncbi.nlm.nih.gov/books/NBK3827/#pubmedhelp.Search_Field_Descriptions_and)
 - [PubTator](https://www.ncbi.nlm.nih.gov/research/pubtator/)
 
-### REF2021 
+## REF2021 
 
 Web: [https://results2021.ref.ac.uk/](https://results2021.ref.ac.uk/) ([Times Higher Education](https://www.timeshighereducation.com/news/ref-2021-research-excellence-framework-results-announced))
 
@@ -22,7 +22,7 @@ Web: [https://results2021.ref.ac.uk/](https://results2021.ref.ac.uk/) ([Times Hi
 
 > For the purpose of the REF, each academic discipline is assigned to one of 34 units of assessment such as Clinical Medicine, Chemistry, Business and Management Studies and Philosophy. Each unit is judged by three criteria – outputs (such as publications, performances, and exhibitions), their impact, and the environment that supports research.
 
-### Google scholar profile
+## Google scholar profile
 
 We encourage anyone with research outputs to set up a google scholar profile: it helps others in finding your publications more easily, is associated with higher citation rates, and can boost your profile. It also facilitates data capture on publications, thus helping, for example, in preparing grant applications and REF returns.
 
