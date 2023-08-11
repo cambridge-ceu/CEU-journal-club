@@ -1,9 +1,5 @@
 <a href="https://phdcomics.com/comics/archive_print.php?comicid=963"><img src="http://phdcomics.com/comics/archive/phd011108s.gif" width="560" height="250" align="right"></a>
 
-**Cardiovascular Epidemiology Unit (CEU) journal clubs**
-
-## Journal clubs
-
 * **Format**. Each session has a leading discussant with contribution from others.
 * **Venue**. The Old Library / The Pod / HLRI.
 * **Schedule**.
@@ -29,7 +25,7 @@ We encourage anyone with research outputs to set up a google scholar profile: it
 
 Once logged into your google account, go to <https://scholar.google.co.uk/>, click “my profile”, complete the form on affiliation, keywords etc, and ensure that your profile is set to “public”.  You will be prompted for an email address: use your university one. Add a photo if you like. Scholar will prompt you with articles it believes are yours; you can select those that do belong to you. You can manually add missing publications. Once set up, Scholar will automatically populate your profile with new publications, but you may need to keep an eye that it has not missed any or that it is not assigning other people’s publications to you.
 
-## Journal[^1] impact factors
+## Journal impact factors
 
 * Browse journals: <https://jcr.clarivate.com/jcr/browse-journals>
 * Browse categories: <https://jcr.clarivate.com/jcr/browse-categories>
@@ -110,7 +106,3 @@ Some notable categories are [CARDIAC & CARDIOVASCULAR SYSTEMS](IF/csv/2021-CARDI
 * [MyEndNoteWeb](https://access.clarivate.com/login?app=endnote)
 * [Sciwheel](https://sciwheel.com/)
 * [Tools to support and steward research culture](https://royalsociety.org/topics-policy/projects/research-culture/tools-for-support/)
-
----
-
-[^1]: [NLM Catalog: Journals referenced in the NCBI Databases](https://www.ncbi.nlm.nih.gov/nlmcatalog/journals), [Pubmed field descriptions and tags](https://www.ncbi.nlm.nih.gov/books/NBK3827/#pubmedhelp.Search_Field_Descriptions_and), [PubTator](https://www.ncbi.nlm.nih.gov/research/pubtator/).

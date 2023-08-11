@@ -1,4 +1,12 @@
-# REF2021 
+## NOTES
+
+## NCBI/PubMed journals
+
+- [NLM Catalog: Journals referenced in the NCBI Databases](https://www.ncbi.nlm.nih.gov/nlmcatalog/journals)
+- [Pubmed field descriptions and tags](https://www.ncbi.nlm.nih.gov/books/NBK3827/#pubmedhelp.Search_Field_Descriptions_and)
+- [PubTator](https://www.ncbi.nlm.nih.gov/research/pubtator/)
+
+### REF2021 
 
 Web: [https://results2021.ref.ac.uk/](https://results2021.ref.ac.uk/) ([Times Higher Education](https://www.timeshighereducation.com/news/ref-2021-research-excellence-framework-results-announced))
 
