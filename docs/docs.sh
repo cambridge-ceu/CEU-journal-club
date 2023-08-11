@@ -11,7 +11,7 @@ mkdocs build
 mkdocs gh-deploy
 
 git .gitignore
-git add -m ".gitignore"
+git commit -m ".gitignore"
 git add docs
 git commit -m "docs"
 git push
