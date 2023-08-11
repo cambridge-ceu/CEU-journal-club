@@ -11,7 +11,7 @@
 * **Web**. <https://cambridge-ceu.github.io/CEU-journal-club/>
 * **Impact**. See [Journal impact factors](https://cambridge-ceu.github.io/CEU-journal-club/#journal-impact-factors), <https://github.com/cambridge-ceu/CEU-journal-club#journal-impact-factors>
 
-<font color="red"><b>Keep rrreeeeeeaaaaaaaaading!!!</b></a>
+<p align="center", style="color:red;font-size:30px"><b>Keep rrreeeeeeaaaaaaaaading!!!</b></p>
 
 ## References
 
