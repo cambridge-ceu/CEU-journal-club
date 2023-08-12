@@ -9,7 +9,7 @@
 * **Format**. Each session has a leading discussant with contribution from others.
 * **Venue**. The Old Library / The Pod / HLRI.
 * **Schedule**.
-    - <https://cambridge-ceu.github.io/CEU-journal-club/schedule>
+    - <https://cambridge-ceu.github.io/CEU-journal-club/schedule> (2018-2020)
     - <https://cambridge-ceu.github.io/CEU-journal-club/mike> (Mike's group)
 
 <p align="left", style="color:black;font-size:20px"><b>Keep rrreeeeeeaaaaaaaaading!!!</b></p>
