@@ -1,4 +1,6 @@
-## Journal clubs by Mike's group[^contact]
+## Journal clubs by Mike's group
+
+*Contact Xilin Jiang via email, <mailto:xj262@medsch.cam.ac.uk>, for interest to present*
 
    Date       | Presenter | URL                                                                           | Venue
 --------------|-----------|-------------------------------------------------------------------------------|-------------------------
@@ -23,7 +25,3 @@
    22/09/2022 | Zhengyang | <https://www.nature.com/articles/s41588-022-01085-0#Abs1>                     |
    08/09/2022 | Scott     | <https://www.medrxiv.org/content/10.1101/2022.08.16.22278868v1>               |
    25/08/2022 | Xilin     | <https://www.nature.com/articles/s41592-022-01540-0>                          |
-
-[^contact]:
-
-    Contact Xilin Jiang via email, <mailto:xj262@medsch.cam.ac.uk>, for interest to present.
