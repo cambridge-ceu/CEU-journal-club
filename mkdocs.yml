@@ -1,6 +1,29 @@
 site_name: CEU journal club
+repo_url: https://github.com/cambridge-ceu/CEU-journal-club
+edit_uri: ""
 nav:
-  - "": README.md
+  - "   ": README.md
+  - Clubs:
+    - HLRI: mike.md
+    - SRL: schedule.md
+  - Impact factor: IF.md
+  - NOTES: NOTES.md
+  - Utilities:
+    - Full Calendar:
+      - fullcalendar-4.3.1/README.md
+      - packages:
+        - fullcalendar-4.3.1/packages/bootstrap/README.md
+        - fullcalendar-4.3.1/packages/core/README.md
+        - fullcalendar-4.3.1/packages/daygrid/README.md
+        - fullcalendar-4.3.1/packages/google-calendar/README.md
+        - fullcalendar-4.3.1/packages/interaction/README.md
+        - fullcalendar-4.3.1/packages/list/README.md
+        - fullcalendar-4.3.1/packages/luxon/README.md
+        - fullcalendar-4.3.1/packages/moment/README.md
+        - fullcalendar-4.3.1/packages/moment-timezone/README.md
+        - fullcalendar-4.3.1/packages/rrule/README.md
+        - fullcalendar-4.3.1/packages/timegrid/README.md
+    - utilities.md
 theme:
     name: mkdocs
     nav_style: dark
