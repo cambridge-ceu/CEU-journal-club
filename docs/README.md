@@ -11,7 +11,6 @@
 * **Schedule**.
     - <https://cambridge-ceu.github.io/CEU-journal-club/schedule>
     - <https://cambridge-ceu.github.io/CEU-journal-club/mike> (Mike's group)
-* **Impact**. See [Journal impact factors](https://cambridge-ceu.github.io/CEU-journal-club/IF/), <https://cambridge-ceu.github.io/CEU-journal-club/IF/>
 
 <p align="left", style="color:black;font-size:20px"><b>Keep rrreeeeeeaaaaaaaaading!!!</b></p>
 
