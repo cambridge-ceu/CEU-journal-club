@@ -1,5 +1,7 @@
 ## Information
 
+*A Cardiovascular Epidemiology Unit (CEU) journal club repository*
+
 <a href="https://phdcomics.com/comics/archive_print.php?comicid=963"><img src="http://phdcomics.com/comics/archive/phd011108s.gif" width="560" height="250" align="right"></a>
 
 * **Format**. Each session has a leading discussant with contribution from others.
