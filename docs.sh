@@ -14,6 +14,8 @@ git add .gitignore
 git commit -m ".gitignore"
 git add docs
 git commit -m "docs"
+git add mkdocs.yml
+git commit -m "mkdocs.yml"
 git push
 
 function st_sh()
