@@ -5,12 +5,11 @@
 <a href="https://phdcomics.com/comics/archive_print.php?comicid=963"><img src="http://phdcomics.com/comics/archive/phd011108s.gif" width="560" height="250" align="right"></a>
 
 * **Web**. <https://cambridge-ceu.github.io/CEU-journal-club/>
-* **Email**. Information on each session and remainder are circulated in the <a href="mailto:phpc-ceu-genjc-bounces@lists.cam.ac.uk">mailing list</a>: <mailto:phpc-ceu-genjc-bounces@lists.cam.ac.uk> and circulation for Mike's group is with [phpc-ceu-group@lists.cam.ac.uk](mailto:phpc-ceu-group@lists.cam.ac.uk)
 * **Format**. Each session has a leading discussant with contribution from others.
 * **Venue**. The Old Library / The Pod / HLRI.
 * **Schedule**.
-    - <https://cambridge-ceu.github.io/CEU-journal-club/schedule> (2018-2020)
-    - <https://cambridge-ceu.github.io/CEU-journal-club/mike> (Mike's group)
+    - <https://cambridge-ceu.github.io/CEU-journal-club/schedule> (2018-2020), information on each session and remainder are circulated in the mailing list: <mailto:phpc-ceu-genjc-bounces@lists.cam.ac.uk>.
+    - <https://cambridge-ceu.github.io/CEU-journal-club/mike> (Mike's group), circulation via [phpc-ceu-group@lists.cam.ac.uk](mailto:phpc-ceu-group@lists.cam.ac.uk).
 
 <p align="left", style="color:black;font-size:20px"><b>Keep rrreeeeeeaaaaaaaaading!!!</b></p>
 
