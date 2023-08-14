@@ -1,4 +1,4 @@
-## Journal impact factors
+## Journal impact factors (JIF)
 
 * Browse journals: <https://jcr.clarivate.com/jcr/browse-journals>
 * Browse categories: <https://jcr.clarivate.com/jcr/browse-categories>
