@@ -1,15 +1,15 @@
-<a href="https://phdcomics.com/comics/archive_print.php?comicid=963"><img src="http://phdcomics.com/comics/archive/phd011108s.gif" width="560" height="250" align="right"></a>
-
 ## Information
 
 *A Cardiovascular Epidemiology Unit (CEU) journal club repository*
 
-* **Format**. Each session has a leading discussant with contribution from others.
-* **Venue**. The Old Library / The Pod / HLRI.
-* **Web**. <https://cambridge-ceu.github.io/CEU-journal-club/>
 * **Schedule**.
     - <https://cambridge-ceu.github.io/CEU-journal-club/schedule> (2018-2020), information on each session and remainder are circulated in the mailing list: <mailto:phpc-ceu-genjc-bounces@lists.cam.ac.uk>.
     - <https://cambridge-ceu.github.io/CEU-journal-club/mike> (Mike's group), circulation via [phpc-ceu-group@lists.cam.ac.uk](mailto:phpc-ceu-group@lists.cam.ac.uk).
+* **Format**. Each session has a leading discussant with contribution from others.
+* **Venue**. The Old Library / The Pod / HLRI.
+* **Web**. <https://cambridge-ceu.github.io/CEU-journal-club/>
+
+<a href="https://phdcomics.com/comics/archive_print.php?comicid=963"><img src="http://phdcomics.com/comics/archive/phd011108s.gif" width="560" height="250" align="right"></a>
 
 <p align="left", style="color:black;font-size:20px"><b>Keep rrreeeeeeaaaaaaaaading!!!</b></p>
 
