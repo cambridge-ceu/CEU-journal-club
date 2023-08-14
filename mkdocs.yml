@@ -7,7 +7,7 @@ nav:
     - HLRI: mike.md
     - SRL: schedule.md
   - JIF: JIF.md
-  - NOTES: NOTES.md
+  - Notes: Notes.md
   - Utilities:
     - Full Calendar:
       - fullcalendar-4.3.1/README.md
