@@ -9,8 +9,7 @@
 * **Venue**. The Old Library / The Pod / HLRI.
 * **Web**. <https://cambridge-ceu.github.io/CEU-journal-club/>
 
-<a href="https://phdcomics.com/comics/archive_print.php?comicid=963"><img src="http://phdcomics.com/comics/archive/phd011108s.gif" width="560" height="250" align="right"></a>
-
+<a href="https://phdcomics.com/comics/archive_print.php?comicid=963"><img src="http://phdcomics.com/comics/archive/phd011108s.gif" width="560" height="250" align="center"></a>
 <p align="left", style="color:black;font-size:20px"><b>Keep rrreeeeeeaaaaaaaaading!!!</b></p>
 
 ## References
