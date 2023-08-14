@@ -6,7 +6,7 @@
     - <https://cambridge-ceu.github.io/CEU-journal-club/schedule> (2018-2020), information on each session and remainder are circulated in the mailing list: <mailto:phpc-ceu-genjc-bounces@lists.cam.ac.uk>.
     - <https://cambridge-ceu.github.io/CEU-journal-club/mike> (Mike's group), circulation via [phpc-ceu-group@lists.cam.ac.uk](mailto:phpc-ceu-group@lists.cam.ac.uk).
 * **Format**. Each session has a leading discussant with contribution from others.
-* **Venue**. The Old Library / The Pod / HLRI.
+* **Venue**. The Old Library / The Pod / HLRI / Zoom.
 * **Web**. <https://cambridge-ceu.github.io/CEU-journal-club/>
 
 <a href="https://phdcomics.com/comics/archive_print.php?comicid=963"><img src="http://phdcomics.com/comics/archive/phd011108s.gif" width="860" height="350" align="center"></a>
