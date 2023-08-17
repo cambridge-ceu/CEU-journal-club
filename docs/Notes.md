@@ -1,7 +1,7 @@
 ## NCBI/PubMed journals
 
 - [NLM Catalog: Journals referenced in the NCBI Databases](https://www.ncbi.nlm.nih.gov/nlmcatalog/journals)
-- [Pubmed field descriptions and tags](https://www.ncbi.nlm.nih.gov/books/NBK3827/#pubmedhelp.Search_Field_Descriptions_and)
+- [PubMed User Guide](https://pubmed.ncbi.nlm.nih.gov/help/)
 - [PubTator](https://www.ncbi.nlm.nih.gov/research/pubtator/)
 
 ## Google scholar profile
