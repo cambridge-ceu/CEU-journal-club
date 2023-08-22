@@ -6,6 +6,7 @@
 --------------|-----------|-------------------------------------------------------------------------------|-------------------------
 **2023--2024**|           |                                                                               |
 **2022--2023**|           |                                                                               |
+   24/08/2023 | Zhengyang | [Tutorial: a statistical genetics guide to identifying HLA alleles driving complex disease](https://www.nature.com/articles/s41596-023-00853-4) | 2.R034/Zoom
    03/08/2023 | Yang      | [Best practices for analysing microbiomes](https://www.nature.com/articles/s41579-018-0029-9) | Inouye Lab space/Zoom
    12/07/2023 | Scott     | [Efficient and accurate causal inference with hidden confounders from genome-transcriptome variation data](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005703) | Meeting room 2.R034/Zoom
    22/06/2023 | Loic      | [Heart-brain connections: Phenotypic and genetic insights from magnetic resonance images](https://www.science.org/doi/10.1126/science.abn6598) | Meeting room 0.R097/Zoom
