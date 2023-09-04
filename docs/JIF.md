@@ -3,7 +3,7 @@
 * Browse journals: <https://jcr.clarivate.com/jcr/browse-journals>
 * Browse categories: <https://jcr.clarivate.com/jcr/browse-categories>
 
-(**2018-2020, 2021 data compiled by Dr Steven Bell**)
+(**2018-2020, 2022 data compiled by Dr Steven Bell**)
 
 To browse CSV files, please use the <a href="https://github.com/cambridge-ceu/CEU-journal-club/tree/master/docs/IF"><font color="red"><b>GitHub</b></a> to navigate to the designated file(s).
 
