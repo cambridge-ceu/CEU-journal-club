@@ -7,5 +7,6 @@ parallel -C' ' '
   tac | \
   sed "1,3d" | \
   tac | \
+  sed "s/[,]$//" | \
   awk -vf={} "{gsub(/_IF_2022.csv/,\"\",f);print  \$0> \"IF_2022_\" f \".csv\"}"
 '
