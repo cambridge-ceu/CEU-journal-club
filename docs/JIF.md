@@ -7,7 +7,7 @@
 
 To browse CSV files, please use the <a href="https://github.com/cambridge-ceu/CEU-journal-club/tree/master/docs/IF"><font color="red"><b>GitHub</b></a> to navigate to the designated file(s).
 
-### 2022
+## 2022
 
 * [AI](IF/IF_2022_AI.csv)
 * [Cardiology](IF/IF_2022_Cardiology.csv)
@@ -24,13 +24,13 @@ To browse CSV files, please use the <a href="https://github.com/cambridge-ceu/CE
 * [PubHealth](IF/IF_2022_PubHealth.csv)
 * [StatsBioinfo](IF/IF_2022_StatsBioinfo.csv)
 
-### 2021
+## 2021
 
 *The Lancet* overtook *The New England Journal of Medicine (NEJM)* "for the first time in 45 years". "High-profile pandemic research may explain the shift: *The Lancet* published three of the 10 most cited articles in 2021, all of them related to COVID-19" (*Science* 1 JULY 2022 - 377(6601)).
 
 Some notable categories are [CARDIAC & CARDIOVASCULAR SYSTEMS](IF/csv/2021-CARDIAC & CARDIOVASCULAR SYSTEMS.csv), [GENETICS & HEREDITY](IF/csv/2021-GENETICS & HEREDITY.csv), [STATISTICS & PROBABILITY](IF/csv/2021-STATISTICS & PROBABILITY.csv).
 
-### 2020
+## 2020
 
  [AI](IF/IF_2020_AI.csv),
  [Biology](IF/IF_2020_Biology.csv),
@@ -43,7 +43,7 @@ Some notable categories are [CARDIAC & CARDIOVASCULAR SYSTEMS](IF/csv/2021-CARDI
  [Medicine](IF/IF_2020_Medicine.csv),
  [Statistics](IF/IF_2020_Statistics.csv)
 
-### 2019
+## 2019
 
  [CVD](IF/IF_2019_CVD.csv),
  [Genetics](IF/IF_2019_Genetics.csv),
@@ -54,7 +54,7 @@ Some notable categories are [CARDIAC & CARDIOVASCULAR SYSTEMS](IF/csv/2021-CARDI
  [Public Health](IF/IF_2019_Public_Health.csv),
  [Statistics](IF/IF_2019_Statistics.csv).
 
-### 2018
+## 2018
 
  [Biology](IF/IF_2018_Biology.csv),
  [Biology-Genetics-Science](IF/IF_2018_Biology_Genetics_Science.csv),
@@ -72,7 +72,7 @@ Some notable categories are [CARDIAC & CARDIOVASCULAR SYSTEMS](IF/csv/2021-CARDI
  [Public Health](IF/IF_2018_Public_Health.csv),
  [Statistics](IF/IF_2018_Statistics.csv).
 
-### 2017
+## 2017
 
  [Collections](IF/IF_2017_Collections.csv) (Biology, Cardiac & cardiovascular systems, Emergency medicine, Genetics & heredity, Medical informatics, General and internal medicine, research & experimental medicine, Microbiology, Public, environmental and occupational health, Statistics & probability),
  [Genetics & Heredity](IF/IF_2017_Genetics_&_Heredity.csv),
