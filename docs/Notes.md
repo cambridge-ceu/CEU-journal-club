@@ -1,3 +1,7 @@
+## research.com
+
+- [Best journal by field](https://research.com/)
+
 ## NCBI/PubMed journals
 
 - [NLM Catalog: Journals referenced in the NCBI Databases](https://www.ncbi.nlm.nih.gov/nlmcatalog/journals)
