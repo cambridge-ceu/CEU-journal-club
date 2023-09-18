@@ -6,6 +6,7 @@
 --------------|-----------|-------------------------------------------------------------------------------|-------------------------
 **2023--2024**|           |                                                                               |
 **2022--2023**|           |                                                                               |
+   21/09/2023 | Emma      | [Machine learning for genetics-based classification and treatment response prediction in cancer of unknown primary](https://www.nature.com/articles/s41591-023-02482-6) | Meeting room 2.R034/Zoom
    07/09/2023 | Emma      | [Multi-trait discovery and fine-mapping of lipid loci in 125,000 individuals of African ancestry](https://www.nature.com/articles/s41467-023-41271-0) | 2.R034/Zoom
    24/08/2023 | Zhengyang | [Tutorial: a statistical genetics guide to identifying HLA alleles driving complex disease](https://www.nature.com/articles/s41596-023-00853-4) | 2.R034/Zoom
    03/08/2023 | Yang      | [Best practices for analysing microbiomes](https://www.nature.com/articles/s41579-018-0029-9) | Inouye Lab space/Zoom
