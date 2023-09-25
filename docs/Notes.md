@@ -26,7 +26,7 @@ Once logged into your google account, go to <https://scholar.google.co.uk/>, cli
 * [Discussion papers](https://rss.org.uk/news-publication/publications/journals/discussion-papers-meetings/)
 * [Events including online interactive discussion meeting](https://rss.org.uk/training-events/events/events-2020/)
 
-## GII
+## The 2023 Global Innovation Index (GII)
 
 <https://www.cambridgeindependent.co.uk/news/amp/cambridge-beats-san-jose-and-oxford-to-be-named-as-the-most-9331666/>
 
