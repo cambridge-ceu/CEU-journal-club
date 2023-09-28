@@ -30,7 +30,7 @@ Once logged into your google account, go to <https://scholar.google.co.uk/>, cli
 
 <https://www.cambridgeindependent.co.uk/news/amp/cambridge-beats-san-jose-and-oxford-to-be-named-as-the-most-9331666/>
 
-## Times Higher Education World University Rankings 2023
+## The Times Higher Education World University Rankings 2023
 
 <https://www.timeshighereducation.com/world-university-rankings/2023/world-ranking>
 
