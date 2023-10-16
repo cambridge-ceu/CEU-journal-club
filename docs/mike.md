@@ -5,6 +5,7 @@
    Date       | Presenter | URL                                                                           | Venue (Virtual/Hybrid)
 --------------|-----------|-------------------------------------------------------------------------------|-------------------------
 **2023--2024**|           |                                                                               |
+   19/10/2023 | Chief     | [Proteogenomic links to human metabolic diseases](https://www.nature.com/articles/s42255-023-00753-7) | Meeting room 2.R034/Zoom
    05/10/2023 | Elodie    | [Cell type deconvolution of bulk blood RNA-Seq to reveal biological insights of neuropsychiatric disorders](https://www.biorxiv.org/content/10.1101/2023.05.24.542156v1) | Meeting room 2.R034/Zoom
 **2022--2023**|           |                                                                               |
    21/09/2023 | Emma      | [Machine learning for genetics-based classification and treatment response prediction in cancer of unknown primary](https://www.nature.com/articles/s41591-023-02482-6) | Meeting room 2.R034/Zoom
