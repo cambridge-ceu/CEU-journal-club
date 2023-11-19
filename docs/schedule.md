@@ -3,6 +3,9 @@
 
 Date       | Presenter | URL | Venue
 -----------|-----------|-------------------------------------------------------------------------------|------
+**2023--2024**|           |                                                                               | HLRI 2.R034
+20/11/2023 | Tao | [Genome-wide association meta-analysis identifies risk loci for abdominal aortic aneurysm and highlights PCSK9 as a therapeutic target](https://www.nature.com/articles/s41588-023-01510-y) | Meeting room 2.R034
+23/10/2023 | Xiyun | [Multi-trait discovery and fine-mapping of lipid loci in 125,000 individuals of African ancestry](https://www.nature.com/articles/s41467-023-41271-0) | 2.R034/Zoom
 **2019--2020**| | | The Old library
 10/09/2019 | Bram | [https://www.nature.com/articles/s41588-019-0481-0](https://www.nature.com/articles/s41588-019-0481-0)
 24/09/2019 | Dirk | [https://www.nature.com/articles/s41588-019-0385-z](https://www.nature.com/articles/s41588-019-0385-z)
