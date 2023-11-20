@@ -1,3 +1,9 @@
+## 2023
+
+- Global Innovation Index (GII), <https://www.cambridgeindependent.co.uk/news/amp/cambridge-beats-san-jose-and-oxford-to-be-named-as-the-most-9331666/>
+- Highly cited researchers 2023, <https://clarivate.com/highly-cited-researchers/>
+- The Times Higher Education World University Rankings, <https://www.timeshighereducation.com/world-university-rankings/2023/world-ranking>
+
 ## research.com
 
 - [Best journal by field](https://research.com/)
@@ -25,14 +31,6 @@ Once logged into your google account, go to <https://scholar.google.co.uk/>, cli
 * [Best Practices for Data Visualisation](https://royal-statistical-society.github.io/datavisguide/)
 * [Discussion papers](https://rss.org.uk/news-publication/publications/journals/discussion-papers-meetings/)
 * [Events including online interactive discussion meeting](https://rss.org.uk/training-events/events/events-2020/)
-
-## The 2023 Global Innovation Index (GII)
-
-<https://www.cambridgeindependent.co.uk/news/amp/cambridge-beats-san-jose-and-oxford-to-be-named-as-the-most-9331666/>
-
-## The Times Higher Education World University Rankings 2023
-
-<https://www.timeshighereducation.com/world-university-rankings/2023/world-ranking>
 
 ## REF2021 
 
