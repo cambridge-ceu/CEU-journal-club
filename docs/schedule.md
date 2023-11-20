@@ -6,6 +6,7 @@ Date       | Presenter | URL | Venue
 20/11/2023 | Tao | [Genome-wide association meta-analysis identifies risk loci for abdominal aortic aneurysm and highlights PCSK9 as a therapeutic target](https://www.nature.com/articles/s41588-023-01510-y) | Meeting room 2.R034/Zoom
 23/10/2023 | Xiyun | [Multi-trait discovery and fine-mapping of lipid loci in 125,000 individuals of African ancestry](https://www.nature.com/articles/s41467-023-41271-0) | Meeting room 2.R034/Zoom
 23/01/2023 | Japio | [FinnGen provides genetic insights from a well-phenotyped isolated population](https://www.nature.com/articles/s41586-022-05473-8) | Meeting Room 2.R034
+   &nbsp;  | &nbsp; | [Mono- and biallelic variant effects on disease at biobank scale](https://www.nature.com/articles/s41586-022-05420-7) | &nbsp;
 **2019--2020**| | | The Old library
 10/09/2019 | Bram | [https://www.nature.com/articles/s41588-019-0481-0](https://www.nature.com/articles/s41588-019-0481-0)
 24/09/2019 | Dirk | [https://www.nature.com/articles/s41588-019-0385-z](https://www.nature.com/articles/s41588-019-0385-z)
