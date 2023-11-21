@@ -1,3 +1,7 @@
+## 2024
+
+- The Times Higher Education World University Rankings, <https://www.timeshighereducation.com/world-university-rankings/2024/world-ranking>
+
 ## 2023
 
 - Global Innovation Index (GII), <https://www.cambridgeindependent.co.uk/news/amp/cambridge-beats-san-jose-and-oxford-to-be-named-as-the-most-9331666/>
