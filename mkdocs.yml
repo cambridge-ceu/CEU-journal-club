@@ -25,7 +25,7 @@ nav:
       - fullcalendar-4.3.1/packages/moment-timezone/README.md
       - fullcalendar-4.3.1/packages/rrule/README.md
       - fullcalendar-4.3.1/packages/timegrid/README.md
-  - Utilities
+  - Utilities:
     - AuthorArranger: https://authorarranger.nci.nih.gov/
     - biomrenderR: https://github.com/xizhou/biomenderR
     - MyEndNoteWeb: https://access.clarivate.com/login?app=endnote
