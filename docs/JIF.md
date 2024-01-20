@@ -5,7 +5,7 @@
 
 (**2018-2020, 2022 data compiled by Dr Steven Bell**)
 
-To browse CSV files, please use the <a href="https://github.com/cambridge-ceu/CEU-journal-club/tree/master/docs/IF"><font color="red"><b>GitHub</b></a> to navigate to the designated file(s).
+To browse CSV files, please use <a href="https://github.com/cambridge-ceu/CEU-journal-club/tree/master/docs/IF"><font color="blue"><b>GitHub</b></a> to navigate to the designated file(s).
 
 ## 2022
 
