@@ -9,20 +9,20 @@ To browse CSV files, please use the <a href="https://github.com/cambridge-ceu/CE
 
 ## 2022
 
-* [AI](IF/IF_2022_AI.csv)
-* [Cardiology](IF/IF_2022_Cardiology.csv)
-* [ClinNeuro](IF/IF_2022_ClinNeuro.csv)
-* [Endo](IF/IF_2022_Endo.csv)
-* [Genetics](IF/IF_2022_Genetics.csv)
-* [Gerontology](IF/IF_2022_Gerontology.csv)
-* [Haematology](IF/IF_2022_Haematology.csv)
-* [Immunology](IF/IF_2022_Immunology.csv)
-* [Medicine](IF/IF_2022_Medicine.csv)
-* [MedInformatics](IF/IF_2022_MedInformatics.csv)
-* [MolBiol](IF/IF_2022_MolBiol.csv)
-* [MultiScience](IF/IF_2022_MultiScience.csv)
-* [PubHealth](IF/IF_2022_PubHealth.csv)
-* [StatsBioinfo](IF/IF_2022_StatsBioinfo.csv)
+ [AI](IF/IF_2022_AI.csv).
+ [Cardiology](IF/IF_2022_Cardiology.csv).
+ [ClinNeuro](IF/IF_2022_ClinNeuro.csv).
+ [Endo](IF/IF_2022_Endo.csv).
+ [Genetics](IF/IF_2022_Genetics.csv).
+ [Gerontology](IF/IF_2022_Gerontology.csv).
+ [Haematology](IF/IF_2022_Haematology.csv).
+ [Immunology](IF/IF_2022_Immunology.csv).
+ [Medicine](IF/IF_2022_Medicine.csv).
+ [MedInformatics](IF/IF_2022_MedInformatics.csv).
+ [MolBiol](IF/IF_2022_MolBiol.csv).
+ [MultiScience](IF/IF_2022_MultiScience.csv).
+ [PubHealth](IF/IF_2022_PubHealth.csv).
+ [StatsBioinfo](IF/IF_2022_StatsBioinfo.csv)
 
 ## 2021
 
