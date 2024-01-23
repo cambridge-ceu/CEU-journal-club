@@ -5,6 +5,7 @@
    Date       | Presenter | URL                                                                           | Venue (Virtual/Hybrid)
 --------------|-----------|-------------------------------------------------------------------------------|-------------------------
 **2023--2024**| &nbsp;    | &nbsp;                                                                        | Meeting room 2.R034/Zoom
+   25/01/2024 | Xilin     | [Development of a human genetics-guided priority score for 19,365 genes and 399 drug indications](https://www.nature.com/articles/s41588-023-01609-2)
    11/01/2024 | Sam       | [Limited overlap between genetic effects on disease susceptibility and disease survival](https://www.medrxiv.org/content/10.1101/2023.10.10.23296544v1)
    30/11/2023 | Loic      | [The Cardiovascular Impact and Genetics of Pericardial Adiposity](https://www.medrxiv.org/content/10.1101/2023.07.16.23292729v1)
    16/11/2023 | Xu        | [Genetically adjusted PSA levels for prostate cancer screening](https://www.nature.com/articles/s41591-023-02277-9)
