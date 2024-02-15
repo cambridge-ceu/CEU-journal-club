@@ -12,7 +12,7 @@
 
 - [Best journal by field](https://research.com/)
 
-## researchfish
+## Researchfish
 
 - <https://researchfish.com/researchfish/>
 
