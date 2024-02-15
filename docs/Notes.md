@@ -8,13 +8,13 @@
 - Highly cited researchers 2023, <https://clarivate.com/highly-cited-researchers/>
 - The Times Higher Education World University Rankings, <https://www.timeshighereducation.com/world-university-rankings/2023/world-ranking>
 
-## research.com
-
-- [Best journal by field](https://research.com/)
-
 ## Researchfish
 
 - <https://researchfish.com/researchfish/>
+
+## research.com
+
+- [Best journal by field](https://research.com/)
 
 ## NCBI/PubMed journals
 
