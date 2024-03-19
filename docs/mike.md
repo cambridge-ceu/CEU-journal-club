@@ -5,7 +5,7 @@
    Date       | Presenter | URL                                                                           | Venue (Virtual/Hybrid)
 --------------|-----------|-------------------------------------------------------------------------------|-------------------------
 **2023--2024**| &nbsp;    | &nbsp;                                                                        | HLRI Meeting room 2.R034/Zoom
-   20/03/2024 | Yang      | [Prediction and stratification of longitudinal risk for chronic obstructive pulmonary disease across smoking behaviors](https://www.nature.com/articles/s41467-023-44047-8) | 1st floor meeting room/Zoom
+   21/03/2024 | Yang      | [Prediction and stratification of longitudinal risk for chronic obstructive pulmonary disease across smoking behaviors](https://www.nature.com/articles/s41467-023-44047-8) | 1st floor meeting room/Zoom
    07/03/2024 | Emma      | [Perturbational phenotyping of human blood cells reveals genetically determined latent traits associated with subsets of common diseases](https://www.nature.com/articles/s41588-023-01600-x) | 1st floor meeting room / Zoom
    22/02/2024 | Scott     | [Constructing an atlas of associations between polygenic scores from across the human phenome and circulating metabolic biomarkers](https://elifesciences.org/articles/73951) | 1st floor meeting room
    25/01/2024 | Xilin     | [Development of a human genetics-guided priority score for 19,365 genes and 399 drug indications](https://www.nature.com/articles/s41588-023-01609-2)
