@@ -5,6 +5,7 @@
    Date       | Presenter | URL                                                                           | Venue (Virtual/Hybrid)
 --------------|-----------|-------------------------------------------------------------------------------|-------------------------
 **2023--2024**| &nbsp;    | &nbsp;                                                                        | HLRI Meeting room 2.R034/Zoom
+   04/04/2024 | Zhengyang | [A common NFKB1 variant detected through antibody analysis in UK Biobank predicts risk of infection and allergy](https://www.cell.com/ajhg/fulltext/S0002-9297(23)00445-7)
    21/03/2024 | Yang      | [Prediction and stratification of longitudinal risk for chronic obstructive pulmonary disease across smoking behaviors](https://www.nature.com/articles/s41467-023-44047-8) | 1st floor meeting room/Zoom
    07/03/2024 | Emma      | [Perturbational phenotyping of human blood cells reveals genetically determined latent traits associated with subsets of common diseases](https://www.nature.com/articles/s41588-023-01600-x) | 1st floor meeting room / Zoom
    22/02/2024 | Scott     | [Constructing an atlas of associations between polygenic scores from across the human phenome and circulating metabolic biomarkers](https://elifesciences.org/articles/73951) | 1st floor meeting room
