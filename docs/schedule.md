@@ -3,7 +3,7 @@
 Date       | Presenter | URL | Venue
 -----------|-----------|-------------------------------------------------------------------------------|------
 **2022--2024**|           |                                                                               | HLRI Meeting room 2.R034/Zoom
-22/04/2024 | Adam | [Systemic proteome adaptions to 7-day complete caloric restriction in humans](https://www.nature.com/articles/s42255-024-01008-9) | 2.R034
+22/04/2024 | Adam | [Systemic proteome adaptions to 7-day complete caloric restriction in humans](https://www.nature.com/articles/s42255-024-01008-9)
 20/11/2023 | Tao | [Genome-wide association meta-analysis identifies risk loci for abdominal aortic aneurysm and highlights PCSK9 as a therapeutic target](https://www.nature.com/articles/s41588-023-01510-y)
 23/10/2023 | Xiyun | [Multi-trait discovery and fine-mapping of lipid loci in 125,000 individuals of African ancestry](https://www.nature.com/articles/s41467-023-41271-0)
 23/01/2023 | Japio | [FinnGen provides genetic insights from a well-phenotyped isolated population](https://www.nature.com/articles/s41586-022-05473-8)
