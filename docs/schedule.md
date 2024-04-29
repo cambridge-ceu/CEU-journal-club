@@ -3,6 +3,7 @@
 Date       | Presenter | URL | Venue
 -----------|-----------|-------------------------------------------------------------------------------|------
 **2022--2024**|           |                                                                               | HLRI Meeting room 2.R034/Zoom
+29/04/2024 | Tao | [Relaxing parametric assumptions for non-linear Mendelian randomization using a doubly-ranked stratification method](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010823)
 22/04/2024 | Adam | [Systemic proteome adaptions to 7-day complete caloric restriction in humans](https://www.nature.com/articles/s42255-024-01008-9)
 20/11/2023 | Tao | [Genome-wide association meta-analysis identifies risk loci for abdominal aortic aneurysm and highlights PCSK9 as a therapeutic target](https://www.nature.com/articles/s41588-023-01510-y)
 23/10/2023 | Xiyun | [Multi-trait discovery and fine-mapping of lipid loci in 125,000 individuals of African ancestry](https://www.nature.com/articles/s41467-023-41271-0)
