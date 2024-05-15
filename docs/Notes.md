@@ -1,3 +1,7 @@
+## 2025
+
+- The Complete University Guide, <https://www.thecompleteuniversityguide.co.uk/league-tables/rankings>
+
 ## 2024
 
 - The Times Higher Education World University Rankings, <https://www.timeshighereducation.com/world-university-rankings/2024/world-ranking>
