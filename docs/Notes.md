@@ -5,6 +5,7 @@
 ## 2024
 
 - The Times Higher Education World University Rankings, <https://www.timeshighereducation.com/world-university-rankings/2024/world-ranking>
+- CWUR university ranking, <https://cwur.org/2024.php>
 
 ## 2023
 
