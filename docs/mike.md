@@ -5,6 +5,7 @@
    Date       | Presenter | URL                                                                           | Venue (Virtual/Hybrid)
 --------------|-----------|-------------------------------------------------------------------------------|-------------------------
 **2023--2024**| &nbsp;    | &nbsp;                                                                        | HLRI Meeting room 2.R034/Zoom
+   30/05/2024 | Chief     | [Genome-wide genotype-serum proteome mapping provides insights into the cross-ancestry differences in cardiometabolic disease susceptibility](https://www.nature.com/articles/s41467-023-36491-3)
    16/05/2024 | Hasanga   | [Cardiovascular Significance and Genetics of Epicardial and Pericardial Adiposity](https://jamanetwork.com/journals/jamacardiology/article-abstract/2816316)
    04/04/2024 | Zhengyang | [A common NFKB1 variant detected through antibody analysis in UK Biobank predicts risk of infection and allergy](https://www.cell.com/ajhg/fulltext/S0002-9297(23)00445-7)
    21/03/2024 | Yang      | [Prediction and stratification of longitudinal risk for chronic obstructive pulmonary disease across smoking behaviors](https://www.nature.com/articles/s41467-023-44047-8) | 1st floor meeting room/Zoom
