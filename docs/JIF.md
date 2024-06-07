@@ -1,9 +1,9 @@
 ## Journal impact factors (JIF)
 
+<img src="../SB30.png" align="right" />
+
 * Browse journals: <https://jcr.clarivate.com/jcr/browse-journals>
 * Browse categories: <https://jcr.clarivate.com/jcr/browse-categories>
-
-<img src="../SB30.png" align="right" />
 
 (**2018-2020, 2022 data compiled by Dr Steven Bell**)
 
