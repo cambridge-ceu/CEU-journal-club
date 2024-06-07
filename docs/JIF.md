@@ -5,7 +5,7 @@
 
 (**2018-2020, 2022 data compiled by Dr Steven Bell**)
 
-<img src="Steven Bell.png" width="660" height="250" align="right">
+<img src="Steven Bell.png" width="460" height="250" align="right">
 
 To browse CSV files, please use <a href="https://github.com/cambridge-ceu/CEU-journal-club/tree/master/docs/IF"><font color="blue"><b>GitHub</b></a> to navigate to the designated file(s).
 
