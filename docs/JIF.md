@@ -3,7 +3,7 @@
 * Browse journals: <https://jcr.clarivate.com/jcr/browse-journals>
 * Browse categories: <https://jcr.clarivate.com/jcr/browse-categories>
 
-<img src="../Steven Bell.png" width=220 height=250 align="right" />
+<img src="../SB30.png" align="right" />
 
 (**2018-2020, 2022 data compiled by Dr Steven Bell**)
 
