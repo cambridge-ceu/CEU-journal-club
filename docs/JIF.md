@@ -3,7 +3,7 @@
 * Browse journals: <https://jcr.clarivate.com/jcr/browse-journals>
 * Browse categories: <https://jcr.clarivate.com/jcr/browse-categories>
 
-<img src="https://github.com/cambridge-ceu/CEU-journal-club/blob/master/Steven%20Bell.png" width=360 height=250 align="right">
+<img src="Steven Bell.png" width=360 height=250 align="right" />
 
 (**2018-2020, 2022 data compiled by Dr Steven Bell**)
 
