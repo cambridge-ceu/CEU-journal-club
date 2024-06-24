@@ -5,6 +5,7 @@
    Date       | Presenter | URL                                                                           | Venue (Virtual/Hybrid)
 --------------|-----------|-------------------------------------------------------------------------------|-------------------------
 **2023--2024**| &nbsp;    | &nbsp;                                                                        | HLRI Meeting room 2.R034/Zoom
+   27/06/2024 | Yu        | [Best practices for multi-ancestry, meta-analytic transcriptome-wide association studies: Lessons from the Global Biobank Meta-analysis Initiative](https://www.cell.com/cell-genomics/fulltext/S2666-979X(22)00125-2)
    13/06/2024 | Elodie    | [Proteome-wide association studies using summary proteomic data identified 23 risk genes of Alzheimer’s disease](https://www.medrxiv.org/content/10.1101/2024.03.28.24305044v1) | 1.R058
    30/05/2024 | Chief     | [Genome-wide genotype-serum proteome mapping provides insights into the cross-ancestry differences in cardiometabolic disease susceptibility](https://www.nature.com/articles/s41467-023-36491-3)
    16/05/2024 | Hasanga   | [Cardiovascular Significance and Genetics of Epicardial and Pericardial Adiposity](https://jamanetwork.com/journals/jamacardiology/article-abstract/2816316)
