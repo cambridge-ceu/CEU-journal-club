@@ -16,7 +16,6 @@
 - Highly cited researchers 2023, <https://clarivate.com/highly-cited-researchers/>
 - QS World University Rankings, <https://www.topuniversities.com/world-university-rankings/2023>
 - The Times Higher Education World University Rankings, <https://www.timeshighereducation.com/world-university-rankings/2023/world-ranking>
-- USNews Global Universities rankings, <https://www.usnews.com/education/best-global-universities/rankings>
 
 ## Researchfish
 
