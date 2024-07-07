@@ -6,11 +6,6 @@ function setup()
   source ~/rds/public_databases/software/py38/bin/activate
 }
 
-if [ "$(uname -n | sed 's/-[0-9]*$//')" == "login-q" ]; then
-   module load ceuadmin/openssh/9.7p1-icelake
-   module load ceuadmin/libssh/0.10.6-icelake
-fi
-
 setup
 mkdocs build
 mkdocs gh-deploy
