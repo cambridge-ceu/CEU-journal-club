@@ -5,6 +5,7 @@
    Date       | Presenter | URL                                                                           | Venue (Virtual/Hybrid)
 --------------|-----------|-------------------------------------------------------------------------------|-------------------------
 **2023--2024**| &nbsp;    | &nbsp;                                                                        | HLRI Meeting room 2.R034/Zoom
+   05/09/2024 | Sam       | [Genetics identifies obesity as a shared risk factor for co-occurring multiple long-term conditions](https://www.medrxiv.org/content/10.1101/2024.07.10.24309772v1) | **11-12pm**
    25/07/2024 | Loic      | [Effect of polygenic risk for schizophrenia on cardiac structure and function: a UK Biobank observational study](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(22)00403-5/fulltext)
    11/07/2024 | Carles    | [Network expansion of genetic associations defines a pleiotropy map of human cell biology](https://www.nature.com/articles/s41588-023-01327-9) | 1.R058
    27/06/2024 | Yu        | [Best practices for multi-ancestry, meta-analytic transcriptome-wide association studies: Lessons from the Global Biobank Meta-analysis Initiative](https://www.cell.com/cell-genomics/fulltext/S2666-979X(22)00125-2)
