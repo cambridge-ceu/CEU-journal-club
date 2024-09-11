@@ -1,5 +1,6 @@
 ## 2025
 
+- Daily Mail University Guide 2025, <https://www.mailplus.co.uk/university-guide>
 - QS World University Rankings, <https://www.topuniversities.com/world-university-rankings>
 - The Complete University Guide, <https://www.thecompleteuniversityguide.co.uk/league-tables/rankings>
 - USNews 2024-2025 Best Global Universities Rankings, <https://www.usnews.com/education/best-global-universities/rankings>
@@ -7,6 +8,7 @@
 ## 2024
 
 - QS World University Rankings, <https://www.topuniversities.com/world-university-rankings/2024>
+- The Academic Ranking of World Universities (ARWU), <https://www.shanghairanking.com/rankings/arwu/2024>
 - The Center for World Universty Rankings (CWUR), <https://cwur.org/2024.php>
 - The Times Higher Education World University Rankings, <https://www.timeshighereducation.com/world-university-rankings/2024/world-ranking>
 
