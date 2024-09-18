@@ -5,6 +5,7 @@
    Date       | Presenter | URL                                                                           | Venue (Virtual/Hybrid)
 --------------|-----------|-------------------------------------------------------------------------------|-------------------------
 **2023--2024**| &nbsp;    | &nbsp;                                                                        | HLRI Meeting room 2.R034/Zoom
+   19/09/2024 | Yang      | [Joint impact of polygenic risk score and lifestyles on early- and late-onset cardiovascular diseases](https://www.nature.com/articles/s41562-024-01923-7)
    05/09/2024 | Sam       | [Genetics identifies obesity as a shared risk factor for co-occurring multiple long-term conditions](https://www.medrxiv.org/content/10.1101/2024.07.10.24309772v1) | **11-12pm**
    25/07/2024 | Loic      | [Effect of polygenic risk for schizophrenia on cardiac structure and function: a UK Biobank observational study](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(22)00403-5/fulltext)
    11/07/2024 | Carles    | [Network expansion of genetic associations defines a pleiotropy map of human cell biology](https://www.nature.com/articles/s41588-023-01327-9) | 1.R058
