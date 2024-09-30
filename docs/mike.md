@@ -20,7 +20,7 @@
    25/01/2024 | Xilin     | [Development of a human genetics-guided priority score for 19,365 genes and 399 drug indications](https://www.nature.com/articles/s41588-023-01609-2)
    11/01/2024 | Sam       | [Limited overlap between genetic effects on disease susceptibility and disease survival](https://www.medrxiv.org/content/10.1101/2023.10.10.23296544v1)
    30/11/2023 | Loic      | [The Cardiovascular Impact and Genetics of Pericardial Adiposity](https://www.medrxiv.org/content/10.1101/2023.07.16.23292729v1)
-   16/11/2023 | Xu        | [Genetically adjusted PSA levels for prostate cancer screening](https://www.nature.com/articles/s41591-023-02277-9)
+   16/11/2023 | Yu        | [Genetically adjusted PSA levels for prostate cancer screening](https://www.nature.com/articles/s41591-023-02277-9)
    19/10/2023 | Chief     | [Proteogenomic links to human metabolic diseases](https://www.nature.com/articles/s42255-023-00753-7)
    05/10/2023 | Elodie    | [Cell type deconvolution of bulk blood RNA-Seq to reveal biological insights of neuropsychiatric disorders](https://www.biorxiv.org/content/10.1101/2023.05.24.542156v1)
 **2022--2023**| &nbsp;    | &nbsp;                                                                        | Meeting room 2.R034/Zoom
@@ -31,7 +31,7 @@
    12/07/2023 | Scott     | [Efficient and accurate causal inference with hidden confounders from genome-transcriptome variation data](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005703)
    22/06/2023 | Loic      | [Heart-brain connections: Phenotypic and genetic insights from magnetic resonance images](https://www.science.org/doi/10.1126/science.abn6598) | Meeting room 0.R097/Zoom
    01/06/2023 | Xilin     | [Polygenic architecture of rare coding variation across 394,783 exomes](https://www.nature.com/articles/s41586-022-05684-z)
-   18/05/2023 | Xu        | [A unified framework for joint-tissue transcriptome-wide association and Mendelian randomization analysis](https://www.nature.com/articles/s41588-020-0706-2)
+   18/05/2023 | Yu        | [A unified framework for joint-tissue transcriptome-wide association and Mendelian randomization analysis](https://www.nature.com/articles/s41588-020-0706-2)
    04/05/2023 | Chief     | [Proteome-wide Mendelian randomization in global biobank meta-analysis reveals multi-ancestry drug targets for common diseases](https://doi.org/10.1016/j.xgen.2022.100195)
    19/04/2023 | Elodie    | [Mendelian randomization and genetic colocalization infer the effects of the multi-tissue proteome on 211 complex disease-related phenotypes](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01140-9) | 1st floor/Zoom
    06/04/2023 | Sol       | [Network propagation: a universal amplifier of genetic associations](https://www.nature.com/articles/nrg.2017.38)
