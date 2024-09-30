@@ -25,7 +25,7 @@ Date       | Presenter | URL | Venue
 ~ ~ ~      | ~ ~ ~     | [https://onlinelibrary.wiley.com/doi/10.1002/gepi.22188](https://onlinelibrary.wiley.com/doi/10.1002/gepi.22188) (suggested reading)
 19/03/2019 | Bram      | [https://www.nature.com/articles/s41588-018-0132-x](https://www.nature.com/articles/s41588-018-0132-x)
 02/04/2019 | Lingyan   | [https://www.nature.com/articles/s41588-019-0350-x](https://www.nature.com/articles/s41588-019-0350-x)
-16/04/2019 | David     | [http://emboj.embopress.org/content/early/2018/08/06/embj.201694813](http://emboj.embopress.org/content/early/2018/08/06/embj.201694813)
+16/04/2019 | David     | [https://www.embopress.org/doi/full/10.15252/embj.201694813](https://www.embopress.org/doi/full/10.15252/embj.201694813)
 30/04/2019 | Jing Hua  | [https://www.nature.com/articles/s41588-018-0321-7](https://www.nature.com/articles/s41588-018-0321-7)
 14/05/2019 | Jonathan  | [https://www.nature.com/articles/s41588-018-0255-0](https://www.nature.com/articles/s41588-018-0255-0)
 25/06/2019 | Luanluan  | [https://www.nature.com/articles/s41588-019-0407-x](https://www.nature.com/articles/s41588-019-0407-x)
