@@ -5,6 +5,7 @@
    Date       | Presenter | URL                                                                           | Venue (Virtual/Hybrid)
 --------------|-----------|-------------------------------------------------------------------------------|-------------------------
 **2023--2024**| &nbsp;    | &nbsp;                                                                        | HLRI Meeting room 2.R034/Zoom
+   17/10/2024 | Emma      | [Linking the plasma proteome to genetics in individuals from continental Africa provides insights into type 2 diabetes pathogenesis](https://www.medrxiv.org/content/10.1101/2024.09.16.24313728v1.full) | **12:00-13:00pm**
    03/10/2024 | Hasanga   | [All of Us diversity and scale improve polygenic prediction contextually with greatest improvements for under-represented populations](https://www.biorxiv.org/content/10.1101/2024.08.06.606846v1) | **12-13pm**
    19/09/2024 | Yang      | [Joint impact of polygenic risk score and lifestyles on early- and late-onset cardiovascular diseases](https://www.nature.com/articles/s41562-024-01923-7)
    05/09/2024 | Sam       | [Genetics identifies obesity as a shared risk factor for co-occurring multiple long-term conditions](https://www.medrxiv.org/content/10.1101/2024.07.10.24309772v1) | **11-12pm**
