@@ -2,10 +2,9 @@
 
 *A Cardiovascular Epidemiology Unit (CEU) journal club repository*
 
-Address                                                    | Mailing list
+Schedules                                                  | Mailing list
 -----------------------------------------------------------|------------------------------------------------
 <https://cambridge-ceu.github.io/CEU-journal-club/schedule>| <mailto:phpc-ceu-genjc-bounces@lists.cam.ac.uk>
-Mkie's group | 
 <https://cambridge-ceu.github.io/CEU-journal-club/mike> | <phpc-ceu-group@lists.cam.ac.uk>
 
 * **Format**. Each session has a leading discussant with contribution from others.
