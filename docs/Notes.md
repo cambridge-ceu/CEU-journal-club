@@ -8,6 +8,7 @@
 
 ## 2024
 
+- Highly cited researchers 2024, <https://clarivate.com/highly-cited-researchers/>
 - QS World University Rankings, <https://www.topuniversities.com/world-university-rankings/2024>
 - The Academic Ranking of World Universities (ARWU), <https://www.shanghairanking.com/rankings/arwu/2024>
 - The Center for World Universty Rankings (CWUR), <https://cwur.org/2024.php>
