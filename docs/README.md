@@ -8,7 +8,7 @@
 
 Schedules (directory name)                                 | Mailing list
 -----------------------------------------------------------|------------------------------------------------
-[/schedule[(https://cambridge-ceu.github.io/CEU-journal-club/schedule)| <mailto:phpc-ceu-genjc-bounces@lists.cam.ac.uk>
+[/schedule](https://cambridge-ceu.github.io/CEU-journal-club/schedule)| <mailto:phpc-ceu-genjc-bounces@lists.cam.ac.uk>
 [/mike](https://cambridge-ceu.github.io/CEU-journal-club/mike) | <phpc-ceu-group@lists.cam.ac.uk>
 
 <a href="https://phdcomics.com/comics/archive_print.php?comicid=963"><img src="http://phdcomics.com/comics/archive/phd011108s.gif" width="860" height="350" align="center"></a>
