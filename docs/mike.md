@@ -5,10 +5,10 @@
    Date       | Presenter | URL                                                                           | Venue (Virtual/Hybrid)
 --------------|-----------|-------------------------------------------------------------------------------|-------------------------
 **2023--2024**| &nbsp;    | &nbsp;                                                                        | HLRI Meeting room 2.R034/Zoom
-   13/12/2024 | Xilin     | [Identifying genetic variants that influence the abundance of cell states in single-cell data](https://www.nature.com/articles/s41588-024-01909-1)
-   28/11/2024 | Chief     | [Improving GWAS performance in underrepresented groups by appropriate modeling of genetics, environment, and sociocultural factors](https://www.biorxiv.org/content/10.1101/2024.10.28.620716v1.full) | **12:00-13:00pm**
-   17/10/2024 | Emma      | [Linking the plasma proteome to genetics in individuals from continental Africa provides insights into type 2 diabetes pathogenesis](https://www.medrxiv.org/content/10.1101/2024.09.16.24313728v1.full) | **12:00-13:00pm**
-   03/10/2024 | Hasanga   | [All of Us diversity and scale improve polygenic prediction contextually with greatest improvements for under-represented populations](https://www.biorxiv.org/content/10.1101/2024.08.06.606846v1) | **12-13pm**
+   13/12/2024 | Xilin     | [Identifying genetic variants that influence the abundance of cell states in single-cell data](https://www.nature.com/articles/s41588-024-01909-1) | **12:00-13:00pm**
+   28/11/2024 | Chief     | [Improving GWAS performance in underrepresented groups by appropriate modeling of genetics, environment, and sociocultural factors](https://www.biorxiv.org/content/10.1101/2024.10.28.620716v1.full)
+   17/10/2024 | Emma      | [Linking the plasma proteome to genetics in individuals from continental Africa provides insights into type 2 diabetes pathogenesis](https://www.medrxiv.org/content/10.1101/2024.09.16.24313728v1.full)
+   03/10/2024 | Hasanga   | [All of Us diversity and scale improve polygenic prediction contextually with greatest improvements for under-represented populations](https://www.biorxiv.org/content/10.1101/2024.08.06.606846v1)
    19/09/2024 | Yang      | [Joint impact of polygenic risk score and lifestyles on early- and late-onset cardiovascular diseases](https://www.nature.com/articles/s41562-024-01923-7)
    05/09/2024 | Sam       | [Genetics identifies obesity as a shared risk factor for co-occurring multiple long-term conditions](https://www.medrxiv.org/content/10.1101/2024.07.10.24309772v1) | **11-12pm**
    25/07/2024 | Loic      | [Effect of polygenic risk for schizophrenia on cardiac structure and function: a UK Biobank observational study](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(22)00403-5/fulltext)
