@@ -21,6 +21,10 @@
 - QS World University Rankings, <https://www.topuniversities.com/world-university-rankings/2023>
 - The Times Higher Education World University Rankings, <https://www.timeshighereducation.com/world-university-rankings/2023/world-ranking>
 
+## CBOA
+
+- Communication based on Open Access (CBOA), <https://cboa.cqvip.com/>
+
 ## Researchfish
 
 - <https://researchfish.com/researchfish/>
