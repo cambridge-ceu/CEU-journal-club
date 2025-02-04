@@ -2,6 +2,8 @@
 
 Date       | Presenter | URL | Venue
 -----------|-----------|-------------------------------------------------------------------------------|------
+**2024-2025**|
+28/01/2025 | Ro | [Reconstruction of the personal information from human genome reads in gut metagenome sequencing data](https://www.nature.com/articles/s41564-023-01381-3)
 **2022--2024**|           |                                                                               | HLRI Meeting room 2.R034/Zoom
 11/11/2024 | Tao | [Non-linear Mendelian randomization: detection of biases using negative controls with a focus on BMI, Vitamin D and LDL cholesterol](https://link.springer.com/article/10.1007/s10654-024-01113-9)
 29/04/2024 | Tao | [Relaxing parametric assumptions for non-linear Mendelian randomization using a doubly-ranked stratification method](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010823)
