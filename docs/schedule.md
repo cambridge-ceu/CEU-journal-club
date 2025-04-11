@@ -3,6 +3,7 @@
 Date       | Presenter | URL | Venue
 -----------|-----------|-------------------------------------------------------------------------------|------
 **2025-**|
+24/02/2025 | Tao | [Mendelian randomization for multiple exposures and outcomes with Bayesian Directed Acyclic Graphs exploration and causal effects estimation](https://doi.org/10.1101/2024.06.18.599498)
 28/01/2025 | Ro | [Reconstruction of the personal information from human genome reads in gut metagenome sequencing data](https://www.nature.com/articles/s41564-023-01381-3)
 **2022--2024**|           |                                                                               | HLRI Meeting room 2.R034/Zoom
 11/11/2024 | Tao | [Non-linear Mendelian randomization: detection of biases using negative controls with a focus on BMI, Vitamin D and LDL cholesterol](https://link.springer.com/article/10.1007/s10654-024-01113-9)
