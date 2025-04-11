@@ -33,6 +33,7 @@ nav:
     - pubMR: https://github.com/xizhou/pubMR
     - PubPeer: https://pubpeer.com/
     - Sciwheel: https://sciwheel.com/
+    - Springer Nature's Journal Finder: https://link.springer.com/journals
     - Tools to support and steward research culture: https://royalsociety.org/topics-policy/projects/research-culture/tools-for-support/
 theme:
     name: mkdocs
