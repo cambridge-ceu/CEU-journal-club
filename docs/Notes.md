@@ -57,6 +57,12 @@ Once logged into your google account, go to <https://scholar.google.co.uk/>, cli
 * [Discussion papers](https://rss.org.uk/news-publication/publications/journals/discussion-papers-meetings/)
 * [Events including online interactive discussion meeting](https://rss.org.uk/training-events/events/events-2020/)
 
+## REF2029
+
+Web: <https://2029.ref.ac.uk/>
+
+[A statement](https://2029.ref.ac.uk/recognising-all-those-who-drive-research-excellence-ref-2029-and-research-enabling-staff/)
+
 ## REF2021 
 
 Web: [https://results2021.ref.ac.uk/](https://results2021.ref.ac.uk/) ([Times Higher Education](https://www.timeshighereducation.com/news/ref-2021-research-excellence-framework-results-announced))
