@@ -6,8 +6,6 @@ nav:
   - Clubs:
     - HLRI: mike.md
     - SRL+HRLI: schedule.md
-  - JIF: JIF.md
-  - Notes: Notes.md
   - FullCalendar:
     - "A full-sized drag & drop JavaScript event calendar":
       - "Project website and demos": http://fullcalendar.io/
@@ -25,6 +23,8 @@ nav:
       - fullcalendar-4.3.1/packages/moment-timezone/README.md
       - fullcalendar-4.3.1/packages/rrule/README.md
       - fullcalendar-4.3.1/packages/timegrid/README.md
+  - JIF: JIF.md
+  - Notes: Notes.md
   - Utilities:
     - AuthorArranger: https://authorarranger.nci.nih.gov/
     - biomrenderR: https://github.com/xizhou/biomenderR
