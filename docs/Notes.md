@@ -4,6 +4,7 @@
 
 - CWTS Leiden Ranking Traditional Edition, <https://traditional.leidenranking.com/ranking/2025/list>
 - Daily Mail University Guide 2025, <https://www.mailplus.co.uk/university-guide>
+- Highly cited researchers 2025, <https://clarivate.com/highly-cited-researchers/>
 - QS World University Rankings, <https://www.topuniversities.com/world-university-rankings>
 - Shanghai Ranking
     * ARWU, <https://www.shanghairanking.com/rankings/arwu/2025>
