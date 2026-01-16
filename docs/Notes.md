@@ -1,4 +1,6 @@
-## 2025
+## Chrononicle
+
+### 2025
 
 - CWTS Leiden Ranking Traditional Edition, <https://traditional.leidenranking.com/ranking/2025/list>
 - Daily Mail University Guide 2025, <https://www.mailplus.co.uk/university-guide>
@@ -10,7 +12,7 @@
 - The Times UK University Rankings, <https://www.thetimes.com/uk-university-rankings>
 - USNews 2024-2025 Best Global Universities Rankings, <https://www.usnews.com/education/best-global-universities/rankings>
 
-## 2024
+### 2024
 
 - Highly cited researchers 2024, <https://clarivate.com/highly-cited-researchers/>
 - QS World University Rankings, <https://www.topuniversities.com/world-university-rankings/2024>
@@ -18,7 +20,7 @@
 - The Center for World Universty Rankings (CWUR), <https://cwur.org/2024.php>
 - The Times Higher Education World University Rankings, <https://www.timeshighereducation.com/world-university-rankings/2024/world-ranking>
 
-## 2023
+### 2023
 
 - Global Innovation Index (GII), <https://www.cambridgeindependent.co.uk/news/amp/cambridge-beats-san-jose-and-oxford-to-be-named-as-the-most-9331666/>
 - Highly cited researchers 2023, <https://clarivate.com/highly-cited-researchers/>
