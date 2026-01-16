@@ -4,8 +4,8 @@
 - Daily Mail University Guide 2025, <https://www.mailplus.co.uk/university-guide>
 - QS World University Rankings, <https://www.topuniversities.com/world-university-rankings>
 - Shanghai Ranking
-  * ARWU, <https://www.shanghairanking.com/rankings/arwu/2025>
-  * BCUR, <https://www.shanghairanking.com/rankings/bcur/2025>
+    * ARWU, <https://www.shanghairanking.com/rankings/arwu/2025>
+    * BCUR, <https://www.shanghairanking.com/rankings/bcur/2025>
 - The Complete University Guide, <https://www.thecompleteuniversityguide.co.uk/league-tables/rankings>
 - The Times UK University Rankings, <https://www.thetimes.com/uk-university-rankings>
 - USNews 2024-2025 Best Global Universities Rankings, <https://www.usnews.com/education/best-global-universities/rankings>
