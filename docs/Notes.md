@@ -1,5 +1,6 @@
 ## 2025
 
+- CWTS Leiden Ranking Traditional Edition, <https://traditional.leidenranking.com/ranking/2025/list>
 - Daily Mail University Guide 2025, <https://www.mailplus.co.uk/university-guide>
 - QS World University Rankings, <https://www.topuniversities.com/world-university-rankings>
 - The Complete University Guide, <https://www.thecompleteuniversityguide.co.uk/league-tables/rankings>
