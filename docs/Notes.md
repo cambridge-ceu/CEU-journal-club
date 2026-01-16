@@ -1,10 +1,9 @@
-## Chrononicle
+## University rankings
 
 ### 2025
 
 - CWTS Leiden Ranking Traditional Edition, <https://traditional.leidenranking.com/ranking/2025/list>
 - Daily Mail University Guide 2025, <https://www.mailplus.co.uk/university-guide>
-- Highly cited researchers 2025, <https://clarivate.com/highly-cited-researchers/>
 - QS World University Rankings, <https://www.topuniversities.com/world-university-rankings>
 - Shanghai Ranking
     * ARWU, <https://www.shanghairanking.com/rankings/arwu/2025>
@@ -28,17 +27,12 @@
 - QS World University Rankings, <https://www.topuniversities.com/world-university-rankings/2023>
 - The Times Higher Education World University Rankings, <https://www.timeshighereducation.com/world-university-rankings/2023/world-ranking>
 
-## CBOA
+## Miscellaneous links
 
 - Communication based on Open Access (CBOA), <https://cboa.cqvip.com/>
-
-## Researchfish
-
-- <https://researchfish.com/researchfish/>
-
-## research.com
-
-- [Best journal by field](https://research.com/)
+- Highly cited researchers, <https://clarivate.com/highly-cited-researchers/>
+- Researchfish, <https://researchfish.com/researchfish/>
+- research.com, - [Best journal by field](https://research.com/)
 
 ## NCBI/PubMed journals
 
