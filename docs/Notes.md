@@ -17,6 +17,10 @@ Once logged into your google account, go to <https://scholar.google.co.uk/>, cli
 - Researchfish, <https://researchfish.com/researchfish/>
 - research.com, - [Best journal by field](https://research.com/)
 - The iCite database, <https://icite.od.nih.gov/stats>
+- The Royal Statistical Society
+    * [Best Practices for Data Visualisation](https://royal-statistical-society.github.io/datavisguide/)
+    * [Discussion papers](https://rss.org.uk/news-publication/publications/journals/discussion-papers-meetings/)
+    * [Events including online interactive discussion meeting](https://rss.org.uk/training-events/events/events-2020/)
 
 ## REF2029
 
@@ -41,12 +45,6 @@ Web: [https://results2021.ref.ac.uk/](https://results2021.ref.ac.uk/) ([Times Hi
 > Professor Anne Ferguson-Smith, Pro-Vice-Chancellor for Research, added: “I would like to congratulate and thank everyone who has taken part in this year’s REF for all their hard work, which we believe has paid off in these results. What we see today is not just the excellence of Cambridge research, but also the breadth of its impact, with researchers across many disciplines bringing a fresh perspective on how we tackle major problems facing our world today.”
 
 > For the purpose of the REF, each academic discipline is assigned to one of 34 units of assessment such as Clinical Medicine, Chemistry, Business and Management Studies and Philosophy. Each unit is judged by three criteria – outputs (such as publications, performances, and exhibitions), their impact, and the environment that supports research.
-
-## The Royal Statistical Society
-
-* [Best Practices for Data Visualisation](https://royal-statistical-society.github.io/datavisguide/)
-* [Discussion papers](https://rss.org.uk/news-publication/publications/journals/discussion-papers-meetings/)
-* [Events including online interactive discussion meeting](https://rss.org.uk/training-events/events/events-2020/)
 
 ## University rankings
 
