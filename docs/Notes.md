@@ -1,30 +1,3 @@
-## University rankings
-
-### 2025
-
-- CWTS Leiden Ranking Traditional Edition, <https://traditional.leidenranking.com/ranking/2025/list>
-- Daily Mail University Guide 2025, <https://www.mailplus.co.uk/university-guide>
-- QS World University Rankings, <https://www.topuniversities.com/world-university-rankings>
-- Shanghai Ranking
-    * ARWU, <https://www.shanghairanking.com/rankings/arwu/2025>
-    * BCUR, <https://www.shanghairanking.com/rankings/bcur/2025>
-- The Complete University Guide, <https://www.thecompleteuniversityguide.co.uk/league-tables/rankings>
-- The Times UK University Rankings, <https://www.thetimes.com/uk-university-rankings>
-- USNews 2024-2025 Best Global Universities Rankings, <https://www.usnews.com/education/best-global-universities/rankings>
-
-### 2024
-
-- QS World University Rankings, <https://www.topuniversities.com/world-university-rankings/2024>
-- The Academic Ranking of World Universities (ARWU), <https://www.shanghairanking.com/rankings/arwu/2024>
-- The Center for World Universty Rankings (CWUR), <https://cwur.org/2024.php>
-- The Times Higher Education World University Rankings, <https://www.timeshighereducation.com/world-university-rankings/2024/world-ranking>
-
-### 2023
-
-- Global Innovation Index (GII), <https://www.cambridgeindependent.co.uk/news/amp/cambridge-beats-san-jose-and-oxford-to-be-named-as-the-most-9331666/>
-- QS World University Rankings, <https://www.topuniversities.com/world-university-rankings/2023>
-- The Times Higher Education World University Rankings, <https://www.timeshighereducation.com/world-university-rankings/2023/world-ranking>
-
 ## Google scholar profile
 
 Anyone with research outputs is encouraged to set up a google scholar profile: it helps others in finding your publications more easily, is associated with higher citation rates, and can boost your profile. It also facilitates data capture on publications, thus helping, for example, in preparing grant applications and REF returns.
@@ -37,12 +10,12 @@ Once logged into your google account, go to <https://scholar.google.co.uk/>, cli
 
 - Communication based on Open Access (CBOA), <https://cboa.cqvip.com/>
 - Highly cited researchers, <https://clarivate.com/highly-cited-researchers/>
-- Researchfish, <https://researchfish.com/researchfish/>
-- research.com, - [Best journal by field](https://research.com/)
 - NCBI/PubMed journals
     * [NLM Catalog: Journals referenced in the NCBI Databases](https://www.ncbi.nlm.nih.gov/nlmcatalog/journals)
     * [PubMed User Guide](https://pubmed.ncbi.nlm.nih.gov/help/)
     * [PubTator](https://www.ncbi.nlm.nih.gov/research/pubtator/)
+- Researchfish, <https://researchfish.com/researchfish/>
+- research.com, - [Best journal by field](https://research.com/)
 - The iCite database, <https://icite.od.nih.gov/stats>
 
 ## REF2029
@@ -74,3 +47,30 @@ Web: [https://results2021.ref.ac.uk/](https://results2021.ref.ac.uk/) ([Times Hi
 * [Best Practices for Data Visualisation](https://royal-statistical-society.github.io/datavisguide/)
 * [Discussion papers](https://rss.org.uk/news-publication/publications/journals/discussion-papers-meetings/)
 * [Events including online interactive discussion meeting](https://rss.org.uk/training-events/events/events-2020/)
+
+## University rankings
+
+### 2025
+
+- CWTS Leiden Ranking Traditional Edition, <https://traditional.leidenranking.com/ranking/2025/list>
+- Daily Mail University Guide 2025, <https://www.mailplus.co.uk/university-guide>
+- QS World University Rankings, <https://www.topuniversities.com/world-university-rankings>
+- Shanghai Ranking
+    * ARWU, <https://www.shanghairanking.com/rankings/arwu/2025>
+    * BCUR, <https://www.shanghairanking.com/rankings/bcur/2025>
+- The Complete University Guide, <https://www.thecompleteuniversityguide.co.uk/league-tables/rankings>
+- The Times UK University Rankings, <https://www.thetimes.com/uk-university-rankings>
+- USNews 2024-2025 Best Global Universities Rankings, <https://www.usnews.com/education/best-global-universities/rankings>
+
+### 2024
+
+- QS World University Rankings, <https://www.topuniversities.com/world-university-rankings/2024>
+- The Academic Ranking of World Universities (ARWU), <https://www.shanghairanking.com/rankings/arwu/2024>
+- The Center for World Universty Rankings (CWUR), <https://cwur.org/2024.php>
+- The Times Higher Education World University Rankings, <https://www.timeshighereducation.com/world-university-rankings/2024/world-ranking>
+
+### 2023
+
+- Global Innovation Index (GII), <https://www.cambridgeindependent.co.uk/news/amp/cambridge-beats-san-jose-and-oxford-to-be-named-as-the-most-9331666/>
+- QS World University Rankings, <https://www.topuniversities.com/world-university-rankings/2023>
+- The Times Higher Education World University Rankings, <https://www.timeshighereducation.com/world-university-rankings/2023/world-ranking>
