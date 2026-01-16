@@ -14,7 +14,6 @@
 
 ### 2024
 
-- Highly cited researchers 2024, <https://clarivate.com/highly-cited-researchers/>
 - QS World University Rankings, <https://www.topuniversities.com/world-university-rankings/2024>
 - The Academic Ranking of World Universities (ARWU), <https://www.shanghairanking.com/rankings/arwu/2024>
 - The Center for World Universty Rankings (CWUR), <https://cwur.org/2024.php>
@@ -23,7 +22,6 @@
 ### 2023
 
 - Global Innovation Index (GII), <https://www.cambridgeindependent.co.uk/news/amp/cambridge-beats-san-jose-and-oxford-to-be-named-as-the-most-9331666/>
-- Highly cited researchers 2023, <https://clarivate.com/highly-cited-researchers/>
 - QS World University Rankings, <https://www.topuniversities.com/world-university-rankings/2023>
 - The Times Higher Education World University Rankings, <https://www.timeshighereducation.com/world-university-rankings/2023/world-ranking>
 
